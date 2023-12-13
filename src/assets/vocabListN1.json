@@ -1,0 +1,3063 @@
+[
+  {
+    "id": 1,
+    "kanji": "赤字",
+    "hiragana": "あかじ",
+    "romaji": "akaji",
+    "meaning": " deficit"
+  },
+  {
+    "id": 2,
+    "kanji": "悪事",
+    "hiragana": "あくじ",
+    "romaji": "akuji",
+    "meaning": " evil deed, crime"
+  },
+  {
+    "id": 3,
+    "kanji": "圧倒",
+    "hiragana": "あっとう",
+    "romaji": "attou",
+    "meaning": " overwhelm, overpower"
+  },
+  {
+    "id": 4,
+    "kanji": "扱い",
+    "hiragana": "あつかい",
+    "romaji": "atsukai",
+    "meaning": " treatment, service​"
+  },
+  {
+    "id": 5,
+    "kanji": "圧力",
+    "hiragana": "あつりょく",
+    "romaji": "atsuryoku",
+    "meaning": " pressure, stress​"
+  },
+  {
+    "id": 6,
+    "kanji": "過ち",
+    "hiragana": "あやまち",
+    "romaji": "ayamachi",
+    "meaning": " fault, error, indiscretion"
+  },
+  {
+    "id": 7,
+    "kanji": "買収",
+    "hiragana": "ばいしゅう",
+    "romaji": "baishuu",
+    "meaning": " acquisition, buy-out, takeover"
+  },
+  {
+    "id": 8,
+    "kanji": "爆弾",
+    "hiragana": "ばくだん",
+    "romaji": "bakudan",
+    "meaning": " bomb"
+  },
+  {
+    "id": 9,
+    "kanji": "弁護",
+    "hiragana": "べんご",
+    "romaji": "bengo",
+    "meaning": " defence, pleading, advocacy​"
+  },
+  {
+    "id": 10,
+    "kanji": "弁解",
+    "hiragana": "べんかい",
+    "romaji": "benkai",
+    "meaning": " justification, explanation"
+  },
+  {
+    "id": 11,
+    "kanji": "弁明",
+    "hiragana": "べんめい",
+    "romaji": "benmei",
+    "meaning": " explanation, excuse"
+  },
+  {
+    "id": 12,
+    "kanji": "貧乏",
+    "hiragana": "びんぼう",
+    "romaji": "binbou",
+    "meaning": " poverty, destitute, poor​"
+  },
+  {
+    "id": 13,
+    "kanji": "敏感",
+    "hiragana": "びんかん",
+    "romaji": "binkan",
+    "meaning": " sensibility, susceptibility"
+  },
+  {
+    "id": 14,
+    "kanji": "微笑",
+    "hiragana": "びしょう",
+    "romaji": "bishou",
+    "meaning": " smile"
+  },
+  {
+    "id": 15,
+    "kanji": "膨張",
+    "hiragana": "ぼうちょう",
+    "romaji": "bouchou",
+    "meaning": " expansion, swelling, increase"
+  },
+  {
+    "id": 16,
+    "kanji": "防衛",
+    "hiragana": "ぼうえい",
+    "romaji": "bouei",
+    "meaning": " defense, protection"
+  },
+  {
+    "id": 17,
+    "kanji": "暴力",
+    "hiragana": "ぼうりょく",
+    "romaji": "bouryoku",
+    "meaning": " violence, mayhem"
+  },
+  {
+    "id": 18,
+    "kanji": "侮辱",
+    "hiragana": "ぶじょく",
+    "romaji": "bujoku",
+    "meaning": " insult, affront, slight"
+  },
+  {
+    "id": 19,
+    "kanji": "部下",
+    "hiragana": "ぶか",
+    "romaji": "buka",
+    "meaning": " subordinate person"
+  },
+  {
+    "id": 20,
+    "kanji": "分配",
+    "hiragana": "ぶんぱい",
+    "romaji": "bunpai",
+    "meaning": " division, splitting, sharing"
+  },
+  {
+    "id": 21,
+    "kanji": "分散",
+    "hiragana": "ぶんさん",
+    "romaji": "bunsan",
+    "meaning": " dispersion, breakup"
+  },
+  {
+    "id": 22,
+    "kanji": "文書",
+    "hiragana": "ぶんしょ",
+    "romaji": "bunsho",
+    "meaning": " document, writing, paperwork"
+  },
+
+  {
+    "id": 31,
+    "kanji": "士",
+    "hiragana": "し",
+    "romaji": "shi",
+    "meaning": " 士 (shi)"
+  },
+
+  {
+    "id": 35,
+    "kanji": "無礼",
+    "hiragana": "ぶれい",
+    "romaji": "burei",
+    "meaning": " impolite, rude​"
+  },
+  {
+    "id": 36,
+    "kanji": "武装",
+    "hiragana": "ぶそう",
+    "romaji": "busou",
+    "meaning": " arms, armament​"
+  },
+  {
+    "id": 37,
+    "kanji": "着手",
+    "hiragana": "ちゃくしゅ",
+    "romaji": "chakushu",
+    "meaning": " to start work (on), to undertake​"
+  },
+  {
+    "id": 38,
+    "kanji": "近づく",
+    "hiragana": "ちかずく",
+    "romaji": "chikazuku",
+    "meaning": " to approach, to draw near"
+  },
+  {
+    "id": 39,
+    "kanji": "蓄積",
+    "hiragana": "ちくせき",
+    "romaji": "chikuseki",
+    "meaning": " accumulation, accumulate"
+  },
+  {
+    "id": 40,
+    "kanji": "賃金",
+    "hiragana": "ちんぎん",
+    "romaji": "chingin",
+    "meaning": " wages"
+  },
+  {
+    "id": 41,
+    "kanji": "沈黙",
+    "hiragana": "ちんもく",
+    "romaji": "chinmoku",
+    "meaning": " silence, being silent"
+  },
+  {
+    "id": 42,
+    "kanji": "知性",
+    "hiragana": "ちせい",
+    "romaji": "chisei",
+    "meaning": " intelligence"
+  },
+  {
+    "id": 43,
+    "kanji": "秩序",
+    "hiragana": "ちつじょ",
+    "romaji": "chitsujo",
+    "meaning": " order, regularity"
+  },
+  {
+    "id": 44,
+    "kanji": "直感",
+    "hiragana": "ちょっかん",
+    "romaji": "chokkan",
+    "meaning": " intuition, instinct, hunch"
+  },
+  {
+    "id": 45,
+    "kanji": "直面",
+    "hiragana": "ちょくめん",
+    "romaji": "chokumen",
+    "meaning": " confrontation, to face"
+  },
+  {
+    "id": 46,
+    "kanji": "挑戦",
+    "hiragana": "ちょうせん",
+    "romaji": "chousen",
+    "meaning": " challenge, defiance, dare"
+  },
+  {
+    "id": 47,
+    "kanji": "調達",
+    "hiragana": "ちょうたつ",
+    "romaji": "choutatsu",
+    "meaning": " supply, provision"
+  },
+  {
+    "id": 48,
+    "kanji": "中断",
+    "hiragana": "ちゅうだん",
+    "romaji": "chuudan",
+    "meaning": " interruption, suspension, break​"
+  },
+  {
+    "id": 49,
+    "kanji": "忠実",
+    "hiragana": "ちゅうじつ",
+    "romaji": "chuujitsu",
+    "meaning": " faithfulness, devotion, loyalty"
+  },
+  {
+    "id": 50,
+    "kanji": "忠告",
+    "hiragana": "ちゅうこく",
+    "romaji": "chuukoku",
+    "meaning": " advice, warning​"
+  },
+  {
+    "id": 51,
+    "kanji": "打撃",
+    "hiragana": "だげき",
+    "romaji": "dageki",
+    "meaning": " blow, shock, strike"
+  },
+  {
+    "id": 52,
+    "kanji": "大胆",
+    "hiragana": "だいたん",
+    "romaji": "daitan",
+    "meaning": " bold, daring, audacious​"
+  },
+  {
+    "id": 53,
+    "kanji": "妥協",
+    "hiragana": "だきょう",
+    "romaji": "dakyou",
+    "meaning": " compromise, giving in​"
+  },
+  {
+    "id": 54,
+    "kanji": "団結",
+    "hiragana": "だんけつ",
+    "romaji": "danketsu",
+    "meaning": " unity, union, combination"
+  },
+  {
+    "id": 55,
+    "kanji": "脱出",
+    "hiragana": "だっしゅつ",
+    "romaji": "dasshutsu",
+    "meaning": " escape, break-out​"
+  },
+  {
+    "id": 56,
+    "kanji": "土台",
+    "hiragana": "どだい",
+    "romaji": "dodai",
+    "meaning": " foundation, base, basis​"
+  },
+  {
+    "id": 57,
+    "kanji": "独裁",
+    "hiragana": "どくさい",
+    "romaji": "dokusai",
+    "meaning": " dictatorship, despotism​"
+  },
+  {
+    "id": 58,
+    "kanji": "独占",
+    "hiragana": "どくせん",
+    "romaji": "dokusen",
+    "meaning": " monopoly, monopolization​"
+  },
+  {
+    "id": 59,
+    "kanji": "度胸",
+    "hiragana": "どきょう",
+    "romaji": "dokyou",
+    "meaning": " courage, bravery, nerve"
+  },
+  {
+    "id": 60,
+    "kanji": "動員",
+    "hiragana": "どういん",
+    "romaji": "douin",
+    "meaning": " mobilization"
+  },
+  {
+    "id": 61,
+    "kanji": "同情",
+    "hiragana": "どうじょう",
+    "romaji": "doujou",
+    "meaning": " sympathy, compassion"
+  },
+  {
+    "id": 62,
+    "kanji": "動機",
+    "hiragana": "どうき",
+    "romaji": "douki",
+    "meaning": " motive, incentive​"
+  },
+  {
+    "id": 63,
+    "kanji": "同盟",
+    "hiragana": "どうめい",
+    "romaji": "doumei",
+    "meaning": " alliance, union, league"
+  },
+  {
+    "id": 64,
+    "kanji": "同類",
+    "hiragana": "どうるい",
+    "romaji": "dourui",
+    "meaning": " the same kind"
+  },
+  {
+    "id": 65,
+    "kanji": "同士",
+    "hiragana": "どうし",
+    "romaji": "doushi",
+    "meaning": " fellow, companion, comrade"
+  },
+  {
+    "id": 66,
+    "kanji": "同等",
+    "hiragana": "どうとう",
+    "romaji": "doutou",
+    "meaning": " equality, equal, same rights"
+  },
+  {
+    "id": 67,
+    "kanji": "動揺",
+    "hiragana": "どうよう",
+    "romaji": "douyou",
+    "meaning": " shaking, trembling, disturbance"
+  },
+  {
+    "id": 68,
+    "kanji": "映像",
+    "hiragana": "えいぞう",
+    "romaji": "eizou",
+    "meaning": " reflection, image, video"
+  },
+  {
+    "id": 69,
+    "kanji": "演じる",
+    "hiragana": "えんじる",
+    "romaji": "enjiru",
+    "meaning": " to perform (a play), to play (a part)"
+  },
+  {
+    "id": 70,
+    "kanji": "不動産",
+    "hiragana": "ふどうさん",
+    "romaji": "fudousan",
+    "meaning": " real estate​"
+  },
+  {
+    "id": 71,
+    "kanji": "腐敗",
+    "hiragana": "ふはい",
+    "romaji": "fuhai",
+    "meaning": " decomposition, corruption, decay"
+  },
+  {
+    "id": 72,
+    "kanji": "不可欠",
+    "hiragana": "ふかけつ",
+    "romaji": "fukaketsu",
+    "meaning": " indispensable, essential​"
+  },
+  {
+    "id": 73,
+    "kanji": "復讐",
+    "hiragana": "ふくしゅう",
+    "romaji": "fukushuu",
+    "meaning": " revenge"
+  },
+  {
+    "id": 74,
+    "kanji": "紛争",
+    "hiragana": "ふんそう",
+    "romaji": "funsou",
+    "meaning": " dispute, trouble, strife​"
+  },
+  {
+    "id": 75,
+    "kanji": "相応しい",
+    "hiragana": "ふさわしい",
+    "romaji": "fusawashii",
+    "meaning": " appropriate, adequate"
+  },
+  {
+    "id": 76,
+    "kanji": "負傷",
+    "hiragana": "ふしょう",
+    "romaji": "fushou",
+    "meaning": " injury, wound​"
+  },
+  {
+    "id": 77,
+    "kanji": "負担",
+    "hiragana": "ふたん",
+    "romaji": "futan",
+    "meaning": " burden, charge, responsibility​"
+  },
+  {
+    "id": 78,
+    "kanji": "不当",
+    "hiragana": "ふとう",
+    "romaji": "futou",
+    "meaning": " injustice, impropriety, unfair"
+  },
+  {
+    "id": 79,
+    "kanji": "封鎖",
+    "hiragana": "ふうさ",
+    "romaji": "fuusa",
+    "meaning": " blockade"
+  },
+  {
+    "id": 80,
+    "kanji": "概念",
+    "hiragana": "がいねん",
+    "romaji": "gainen",
+    "meaning": " general idea, concept"
+  },
+  {
+    "id": 81,
+    "kanji": "現地",
+    "hiragana": "げんち",
+    "romaji": "genchi",
+    "meaning": " actual place, local"
+  },
+  {
+    "id": 82,
+    "kanji": "厳密",
+    "hiragana": "げんみつ",
+    "romaji": "genmitsu",
+    "meaning": " strict, close, precise"
+  },
+  {
+    "id": 83,
+    "kanji": "減少",
+    "hiragana": "げんしょう",
+    "romaji": "genshou",
+    "meaning": " decrease, reduction, decline"
+  },
+  {
+    "id": 84,
+    "kanji": "原則",
+    "hiragana": "げんそく",
+    "romaji": "gensoku",
+    "meaning": " principle, general rule​"
+  },
+  {
+    "id": 85,
+    "kanji": "幻想",
+    "hiragana": "げんそう",
+    "romaji": "gensou",
+    "meaning": " illusions"
+  },
+  {
+    "id": 86,
+    "kanji": "犠牲",
+    "hiragana": "ぎせい",
+    "romaji": "gisei",
+    "meaning": " victim, sacrifice, scapegoat"
+  },
+  {
+    "id": 87,
+    "kanji": "合成",
+    "hiragana": "ごうせい",
+    "romaji": "gousei",
+    "meaning": " composition, synthesis"
+  },
+  {
+    "id": 88,
+    "kanji": "軍事",
+    "hiragana": "ぐんじ",
+    "romaji": "gunji",
+    "meaning": " military affairs​"
+  },
+  {
+    "id": 89,
+    "kanji": "業務",
+    "hiragana": "ぎょうむ",
+    "romaji": "gyoumu",
+    "meaning": " business, affairs, duties"
+  },
+  {
+    "id": 90,
+    "kanji": "業績",
+    "hiragana": "ぎょうせき",
+    "romaji": "gyouseki",
+    "meaning": " achievement, performance, results"
+  },
+  {
+    "id": 91,
+    "kanji": "把握",
+    "hiragana": "はあく",
+    "romaji": "haaku",
+    "meaning": " grasp, catch, understanding​"
+  },
+  {
+    "id": 92,
+    "kanji": "阻む",
+    "hiragana": "はばむ",
+    "romaji": "habamu",
+    "meaning": " to keep someone from doing, to prevent"
+  },
+  {
+    "id": 93,
+    "kanji": "肺",
+    "hiragana": "はい",
+    "romaji": "hai",
+    "meaning": " lung"
+  },
+  {
+    "id": 94,
+    "kanji": "配置",
+    "hiragana": "はいち",
+    "romaji": "haichi",
+    "meaning": " arrangement, deployment"
+  },
+  {
+    "id": 95,
+    "kanji": "背後",
+    "hiragana": "はいご",
+    "romaji": "haigo",
+    "meaning": " back, rear, ​background"
+  },
+  {
+    "id": 96,
+    "kanji": "排除",
+    "hiragana": "はいじょ",
+    "romaji": "haijo",
+    "meaning": " exclusion, removal, elimination"
+  },
+  {
+    "id": 97,
+    "kanji": "配慮",
+    "hiragana": "はいりょ",
+    "romaji": "hairyo",
+    "meaning": " consideration, concern, attention"
+  },
+  {
+    "id": 98,
+    "kanji": "廃止",
+    "hiragana": "はいし",
+    "romaji": "haishi",
+    "meaning": " abolition, repeal​"
+  },
+  {
+    "id": 99,
+    "kanji": "破壊",
+    "hiragana": "はかい",
+    "romaji": "hakai",
+    "meaning": " destruction, disruption​"
+  },
+  {
+    "id": 100,
+    "kanji": "派遣",
+    "hiragana": "はけん",
+    "romaji": "haken",
+    "meaning": " dispatch, despatch, deployment​"
+  },
+  {
+    "id": 101,
+    "kanji": "白状",
+    "hiragana": "はくじょう",
+    "romaji": "hakujou",
+    "meaning": " confession"
+  },
+  {
+    "id": 102,
+    "kanji": "繁栄",
+    "hiragana": "はん’えい",
+    "romaji": "han’ei",
+    "meaning": " prosperity, thriving"
+  },
+  {
+    "id": 103,
+    "kanji": "反応",
+    "hiragana": "はんのう",
+    "romaji": "hannou",
+    "meaning": " reaction, response​"
+  },
+  {
+    "id": 104,
+    "kanji": "反乱",
+    "hiragana": "はんらん",
+    "romaji": "hanran",
+    "meaning": " insurrection, rebellion"
+  },
+  {
+    "id": 105,
+    "kanji": "発生",
+    "hiragana": "はっせい",
+    "romaji": "hassei",
+    "meaning": " outbreak, spring forth, occurrence"
+  },
+  {
+    "id": 106,
+    "kanji": "果たす",
+    "hiragana": "はたす",
+    "romaji": "hatasu",
+    "meaning": " to accomplish, to achieve"
+  },
+  {
+    "id": 107,
+    "kanji": "発言",
+    "hiragana": "はつげん",
+    "romaji": "hatsugen",
+    "meaning": " statement, remark"
+  },
+  {
+    "id": 108,
+    "kanji": "兵器",
+    "hiragana": "へいき",
+    "romaji": "heiki",
+    "meaning": " arms, weapons, ordnance​"
+  },
+  {
+    "id": 109,
+    "kanji": "閉鎖",
+    "hiragana": "へいさ",
+    "romaji": "heisa",
+    "meaning": " closing, shutdown, lockout"
+  },
+  {
+    "id": 110,
+    "kanji": "兵士",
+    "hiragana": "へいし",
+    "romaji": "heishi",
+    "meaning": " soldier"
+  },
+  {
+    "id": 111,
+    "kanji": "変動",
+    "hiragana": "へんどう",
+    "romaji": "hendou",
+    "meaning": " change, fluctuation​"
+  },
+  {
+    "id": 112,
+    "kanji": "変革",
+    "hiragana": "へんかく",
+    "romaji": "henkaku",
+    "meaning": " change, transformation"
+  },
+  {
+    "id": 113,
+    "kanji": "偏見",
+    "hiragana": "へんけん",
+    "romaji": "henken",
+    "meaning": " prejudice, narrow view​"
+  },
+  {
+    "id": 114,
+    "kanji": "率いる",
+    "hiragana": "ひきいる",
+    "romaji": "hikiiru",
+    "meaning": " to lead, to command"
+  },
+  {
+    "id": 115,
+    "kanji": "悲鳴",
+    "hiragana": "ひめい",
+    "romaji": "himei",
+    "meaning": " shriek, scream​"
+  },
+  {
+    "id": 116,
+    "kanji": "非難",
+    "hiragana": "ひなん",
+    "romaji": "hinan",
+    "meaning": " criticism, blame, reproach"
+  },
+  {
+    "id": 117,
+    "kanji": "避難",
+    "hiragana": "ひなん",
+    "romaji": "hinan",
+    "meaning": " taking refuge, finding shelter"
+  },
+  {
+    "id": 118,
+    "kanji": "貧困",
+    "hiragana": "ひんこん",
+    "romaji": "hinkon",
+    "meaning": " poor, needy​"
+  },
+  {
+    "id": 119,
+    "kanji": "頻繁",
+    "hiragana": "ひんぱん",
+    "romaji": "hinpan",
+    "meaning": " frequent, incessant"
+  },
+  {
+    "id": 120,
+    "kanji": "疲労",
+    "hiragana": "ひろう",
+    "romaji": "hirou",
+    "meaning": " fatigue, weariness​"
+  },
+  {
+    "id": 121,
+    "kanji": "悲惨",
+    "hiragana": "ひさん",
+    "romaji": "hisan",
+    "meaning": " disastrous, tragic"
+  },
+  {
+    "id": 122,
+    "kanji": "匹敵",
+    "hiragana": "ひってき",
+    "romaji": "hitteki",
+    "meaning": " to be a match for, to rival"
+  },
+  {
+    "id": 123,
+    "kanji": "必然",
+    "hiragana": "ひつぜん",
+    "romaji": "hitsuzen",
+    "meaning": " inevitable, necessary"
+  },
+  {
+    "id": 124,
+    "kanji": "施す",
+    "hiragana": "ほどこす",
+    "romaji": "hodokosu",
+    "meaning": " to give, to do, to conduct"
+  },
+  {
+    "id": 125,
+    "kanji": "保護",
+    "hiragana": "ほご",
+    "romaji": "hogo",
+    "meaning": " care, protection, shelter"
+  },
+  {
+    "id": 126,
+    "kanji": "保険",
+    "hiragana": "ほけん",
+    "romaji": "hoken",
+    "meaning": " insurance, guarantee​"
+  },
+  {
+    "id": 127,
+    "kanji": "本能",
+    "hiragana": "ほんのう",
+    "romaji": "honnou",
+    "meaning": " instinct"
+  },
+  {
+    "id": 128,
+    "kanji": "本心",
+    "hiragana": "ほんしん",
+    "romaji": "honshin",
+    "meaning": " true feelings​"
+  },
+  {
+    "id": 129,
+    "kanji": "本質",
+    "hiragana": "ほんしつ",
+    "romaji": "honshitsu",
+    "meaning": " essence, true nature"
+  },
+  {
+    "id": 130,
+    "kanji": "崩壊",
+    "hiragana": "ほうかい",
+    "romaji": "houkai",
+    "meaning": " collapse, crumbling"
+  },
+  {
+    "id": 131,
+    "kanji": "放棄",
+    "hiragana": "ほうき",
+    "romaji": "houki",
+    "meaning": " abandonment, renunciation"
+  },
+  {
+    "id": 132,
+    "kanji": "方策",
+    "hiragana": "ほうさく",
+    "romaji": "housaku",
+    "meaning": " plan, policy​"
+  },
+  {
+    "id": 133,
+    "kanji": "報酬",
+    "hiragana": "ほうしゅう",
+    "romaji": "houshuu",
+    "meaning": " remuneration, recompense, reward"
+  },
+  {
+    "id": 134,
+    "kanji": "法廷",
+    "hiragana": "ほうてい",
+    "romaji": "houtei",
+    "meaning": " courtroom"
+  },
+  {
+    "id": 135,
+    "kanji": "票",
+    "hiragana": "ひょう",
+    "romaji": "hyou",
+    "meaning": " vote, ballot"
+  },
+  {
+    "id": 136,
+    "kanji": "一部",
+    "hiragana": "いちぶ",
+    "romaji": "ichibu",
+    "meaning": " one part, one portion"
+  },
+  {
+    "id": 137,
+    "kanji": "著しい",
+    "hiragana": "いちじるしい",
+    "romaji": "ichijirushii",
+    "meaning": " striking, remarkable, considerable"
+  },
+  {
+    "id": 138,
+    "kanji": "移住",
+    "hiragana": "いじゅう",
+    "romaji": "ijuu",
+    "meaning": " migration, immigration​"
+  },
+  {
+    "id": 139,
+    "kanji": "怒り",
+    "hiragana": "いかり",
+    "romaji": "ikari",
+    "meaning": " anger, rage, fury"
+  },
+  {
+    "id": 140,
+    "kanji": "一刻",
+    "hiragana": "いっこく",
+    "romaji": "ikkoku",
+    "meaning": " minute, moment, an instant​"
+  },
+  {
+    "id": 141,
+    "kanji": "移行",
+    "hiragana": "いこう",
+    "romaji": "ikou",
+    "meaning": " migration, transition​"
+  },
+  {
+    "id": 142,
+    "kanji": "移民",
+    "hiragana": "いみん",
+    "romaji": "imin",
+    "meaning": " emigration, immigration"
+  },
+  {
+    "id": 143,
+    "kanji": "痛める",
+    "hiragana": "いためる",
+    "romaji": "itameru",
+    "meaning": " to hurt, to cause pain"
+  },
+  {
+    "id": 144,
+    "kanji": "痛む",
+    "hiragana": "いたむ",
+    "romaji": "itamu",
+    "meaning": " to hurt, to ache, to feel a pain​"
+  },
+  {
+    "id": 145,
+    "kanji": "意図",
+    "hiragana": "いと",
+    "romaji": "ito",
+    "meaning": " intention, aim, design​"
+  },
+  {
+    "id": 146,
+    "kanji": "営む",
+    "hiragana": "いとなむ",
+    "romaji": "itonamu",
+    "meaning": " to run (a business), to operate"
+  },
+  {
+    "id": 147,
+    "kanji": "意欲",
+    "hiragana": "いよく",
+    "romaji": "iyoku",
+    "meaning": " will, desire, ambition"
+  },
+  {
+    "id": 148,
+    "kanji": "依然",
+    "hiragana": "いぜん",
+    "romaji": "izen",
+    "meaning": " still, as yet"
+  },
+  {
+    "id": 149,
+    "kanji": "依存",
+    "hiragana": "いぞん",
+    "romaji": "izon",
+    "meaning": " dependence, reliance​"
+  },
+  {
+    "id": 150,
+    "kanji": "地獄",
+    "hiragana": "じごく",
+    "romaji": "jigoku",
+    "meaning": " hell"
+  },
+  {
+    "id": 151,
+    "kanji": "事業",
+    "hiragana": "じぎょう",
+    "romaji": "jigyou",
+    "meaning": " enterprise, business, industry"
+  },
+  {
+    "id": 152,
+    "kanji": "自覚",
+    "hiragana": "じかく",
+    "romaji": "jikaku",
+    "meaning": " self-consciousness, self-awareness​"
+  },
+  {
+    "id": 153,
+    "kanji": "地元",
+    "hiragana": "じもと",
+    "romaji": "jimoto",
+    "meaning": " home area, local"
+  },
+  {
+    "id": 154,
+    "kanji": "迅速",
+    "hiragana": "じんそく",
+    "romaji": "jinsoku",
+    "meaning": " quick, fast, rapid, swift"
+  },
+  {
+    "id": 155,
+    "kanji": "実践",
+    "hiragana": "じっせん",
+    "romaji": "jissen",
+    "meaning": " practice, putting into practice"
+  },
+  {
+    "id": 156,
+    "kanji": "実質",
+    "hiragana": "じっしつ",
+    "romaji": "jisshitsu",
+    "meaning": " substance, essence​"
+  },
+  {
+    "id": 157,
+    "kanji": "事前",
+    "hiragana": "じぜん",
+    "romaji": "jizen",
+    "meaning": " prior, beforehand"
+  },
+  {
+    "id": 158,
+    "kanji": "持続",
+    "hiragana": "じぞく",
+    "romaji": "jizoku",
+    "meaning": " continuation, persisting, lasting"
+  },
+  {
+    "id": 159,
+    "kanji": "助言",
+    "hiragana": "じょげん",
+    "romaji": "jogen",
+    "meaning": " advice, suggestion​"
+  },
+  {
+    "id": 160,
+    "kanji": "譲歩",
+    "hiragana": "じょうほ",
+    "romaji": "jouho",
+    "meaning": " concession, conciliation"
+  },
+  {
+    "id": 161,
+    "kanji": "情熱",
+    "hiragana": "じょうねつ",
+    "romaji": "jounetsu",
+    "meaning": " passion, enthusiasm"
+  },
+  {
+    "id": 162,
+    "kanji": "上陸",
+    "hiragana": "じょうりく",
+    "romaji": "jouriku",
+    "meaning": " landing, disembarkation"
+  },
+  {
+    "id": 163,
+    "kanji": "情勢",
+    "hiragana": "じょうせい",
+    "romaji": "jousei",
+    "meaning": " state of things, state of affairs"
+  },
+  {
+    "id": 164,
+    "kanji": "従業員",
+    "hiragana": "じゅうぎょういん",
+    "romaji": "juugyouin",
+    "meaning": " employee, worker​"
+  },
+  {
+    "id": 165,
+    "kanji": "柔軟",
+    "hiragana": "じゅうなん",
+    "romaji": "juunan",
+    "meaning": " flexible, lithe, soft, pliable​"
+  },
+  {
+    "id": 166,
+    "kanji": "株式",
+    "hiragana": "かぶしき",
+    "romaji": "kabushiki",
+    "meaning": " stock (company)​"
+  },
+  {
+    "id": 167,
+    "kanji": "課題",
+    "hiragana": "かだい",
+    "romaji": "kadai",
+    "meaning": " subject, theme, issue, matter​"
+  },
+  {
+    "id": 168,
+    "kanji": "開発",
+    "hiragana": "かいはつ",
+    "romaji": "kaihatsu",
+    "meaning": " development, exploitation​"
+  },
+  {
+    "id": 169,
+    "kanji": "回避",
+    "hiragana": "かいひ",
+    "romaji": "kaihi",
+    "meaning": " evasion, avoidance​"
+  },
+  {
+    "id": 170,
+    "kanji": "解除",
+    "hiragana": "かいじょ",
+    "romaji": "kaijo",
+    "meaning": " cancellation, release"
+  },
+  {
+    "id": 171,
+    "kanji": "改革",
+    "hiragana": "かいかく",
+    "romaji": "kaikaku",
+    "meaning": " reform, reformation"
+  },
+  {
+    "id": 172,
+    "kanji": "階級",
+    "hiragana": "かいきゅう",
+    "romaji": "kaikyuu",
+    "meaning": " (social) class, rank, grade​"
+  },
+  {
+    "id": 173,
+    "kanji": "介入",
+    "hiragana": "かいにゅう",
+    "romaji": "kainyuu",
+    "meaning": " intervention"
+  },
+  {
+    "id": 174,
+    "kanji": "賭け",
+    "hiragana": "かけ",
+    "romaji": "kake",
+    "meaning": " betting, gambling"
+  },
+  {
+    "id": 175,
+    "kanji": "賭ける",
+    "hiragana": "かける",
+    "romaji": "kakeru",
+    "meaning": " to wager, to bet, to gamble"
+  },
+  {
+    "id": 176,
+    "kanji": "確保",
+    "hiragana": "かくほ",
+    "romaji": "kakuho",
+    "meaning": " guarantee, maintain, ensure"
+  },
+  {
+    "id": 177,
+    "kanji": "革命",
+    "hiragana": "かくめい",
+    "romaji": "kakumei",
+    "meaning": " revolution"
+  },
+  {
+    "id": 178,
+    "kanji": "確信",
+    "hiragana": "かくしん",
+    "romaji": "kakushin",
+    "meaning": " conviction, belief, confidence​"
+  },
+  {
+    "id": 179,
+    "kanji": "肝心",
+    "hiragana": "かんじん",
+    "romaji": "kanjin",
+    "meaning": " essential, fundamental, crucial"
+  },
+  {
+    "id": 180,
+    "kanji": "完璧",
+    "hiragana": "かんぺき",
+    "romaji": "kanpeki",
+    "meaning": " perfect, complete, flawless​"
+  },
+  {
+    "id": 181,
+    "kanji": "官僚",
+    "hiragana": "かんりょう",
+    "romaji": "kanryou",
+    "meaning": " bureaucrat, bureaucracy​"
+  },
+  {
+    "id": 182,
+    "kanji": "監視",
+    "hiragana": "かんし",
+    "romaji": "kanshi",
+    "meaning": " monitoring, watching, observation"
+  },
+  {
+    "id": 183,
+    "kanji": "干渉",
+    "hiragana": "かんしょう",
+    "romaji": "kanshou",
+    "meaning": " interference, intervention, meddling​"
+  },
+  {
+    "id": 184,
+    "kanji": "関与",
+    "hiragana": "かにょ",
+    "romaji": "kanyo",
+    "meaning": " participation, taking part in"
+  },
+  {
+    "id": 185,
+    "kanji": "寛容",
+    "hiragana": "かにょう",
+    "romaji": "kanyou",
+    "meaning": " tolerance, generosity"
+  },
+  {
+    "id": 186,
+    "kanji": "固める",
+    "hiragana": "かためる",
+    "romaji": "katameru",
+    "meaning": " to harden, to solidify"
+  },
+  {
+    "id": 187,
+    "kanji": "傾ける",
+    "hiragana": "かたむける",
+    "romaji": "katamukeru",
+    "meaning": " to incline, to lean, to tilt"
+  },
+  {
+    "id": 188,
+    "kanji": "交わす",
+    "hiragana": "かわす",
+    "romaji": "kawasu",
+    "meaning": " to exchange, to intersect, to cross"
+  },
+  {
+    "id": 189,
+    "kanji": "軽減",
+    "hiragana": "けいげん",
+    "romaji": "keigen",
+    "meaning": " abatement, reduction​"
+  },
+  {
+    "id": 190,
+    "kanji": "経費",
+    "hiragana": "けいひ",
+    "romaji": "keihi",
+    "meaning": " expenses, cost, outlay​"
+  },
+  {
+    "id": 191,
+    "kanji": "経過",
+    "hiragana": "けいか",
+    "romaji": "keika",
+    "meaning": " passage, expiration, progress"
+  },
+  {
+    "id": 192,
+    "kanji": "警戒",
+    "hiragana": "けいかい",
+    "romaji": "keikai",
+    "meaning": " vigilance, caution, alertness"
+  },
+  {
+    "id": 193,
+    "kanji": "経歴",
+    "hiragana": "けいれき",
+    "romaji": "keireki",
+    "meaning": " personal history, career​"
+  },
+  {
+    "id": 194,
+    "kanji": "経路",
+    "hiragana": "けいろ",
+    "romaji": "keiro",
+    "meaning": " course, route, means"
+  },
+  {
+    "id": 195,
+    "kanji": "形成",
+    "hiragana": "けいせい",
+    "romaji": "keisei",
+    "meaning": " formation, molding, taking form​"
+  },
+  {
+    "id": 196,
+    "kanji": "携帯",
+    "hiragana": "けいたい",
+    "romaji": "keitai",
+    "meaning": " something carried (in the hand)"
+  },
+  {
+    "id": 197,
+    "kanji": "権限",
+    "hiragana": "けんげん",
+    "romaji": "kengen",
+    "meaning": " power, authority, jurisdiction​"
+  },
+  {
+    "id": 198,
+    "kanji": "権威",
+    "hiragana": "けん’い",
+    "romaji": "ken’i",
+    "meaning": " authority, power, influence​"
+  },
+  {
+    "id": 199,
+    "kanji": "権力",
+    "hiragana": "けんりょく",
+    "romaji": "kenryoku",
+    "meaning": " (political) power, authority"
+  },
+  {
+    "id": 200,
+    "kanji": "決断",
+    "hiragana": "けつだん",
+    "romaji": "ketsudan",
+    "meaning": " decision, determination​"
+  },
+  {
+    "id": 201,
+    "kanji": "決意",
+    "hiragana": "けつい",
+    "romaji": "ketsui",
+    "meaning": " decision, determination"
+  },
+  {
+    "id": 202,
+    "kanji": "規模",
+    "hiragana": "きぼ",
+    "romaji": "kibo",
+    "meaning": " scale, scope, plan"
+  },
+  {
+    "id": 203,
+    "kanji": "危機",
+    "hiragana": "きき",
+    "romaji": "kiki",
+    "meaning": " crisis, danger, risk​"
+  },
+  {
+    "id": 204,
+    "kanji": "機構",
+    "hiragana": "きこう",
+    "romaji": "kikou",
+    "meaning": " mechanism, organization"
+  },
+  {
+    "id": 205,
+    "kanji": "勤勉",
+    "hiragana": "きんべん",
+    "romaji": "kinben",
+    "meaning": " diligent, industrious​"
+  },
+  {
+    "id": 206,
+    "kanji": "緊急",
+    "hiragana": "きんきゅう",
+    "romaji": "kinkyuu",
+    "meaning": " urgent, pressing, emergency​"
+  },
+  {
+    "id": 207,
+    "kanji": "規制",
+    "hiragana": "きせい",
+    "romaji": "kisei",
+    "meaning": " regulation, control, restriction"
+  },
+  {
+    "id": 208,
+    "kanji": "奇跡",
+    "hiragana": "きせき",
+    "romaji": "kiseki",
+    "meaning": " miracle, wonder, marvel​"
+  },
+  {
+    "id": 209,
+    "kanji": "競う",
+    "hiragana": "きそう",
+    "romaji": "kisou",
+    "meaning": " to compete, to contest"
+  },
+  {
+    "id": 210,
+    "kanji": "規定",
+    "hiragana": "きてい",
+    "romaji": "kitei",
+    "meaning": " provision, regulation, rule​"
+  },
+  {
+    "id": 211,
+    "kanji": "気絶",
+    "hiragana": "きぜつ",
+    "romaji": "kizetsu",
+    "meaning": " faint, swoon​"
+  },
+  {
+    "id": 212,
+    "kanji": "築く",
+    "hiragana": "きずく",
+    "romaji": "kizuku",
+    "meaning": " to build, to construct"
+  },
+  {
+    "id": 213,
+    "kanji": "傷つける",
+    "hiragana": "きずつける",
+    "romaji": "kizutsukeru",
+    "meaning": " to wound, to injure​"
+  },
+  {
+    "id": 214,
+    "kanji": "拒む",
+    "hiragana": "こばむ",
+    "romaji": "kobamu",
+    "meaning": " to refuse, to reject, to decline​"
+  },
+  {
+    "id": 215,
+    "kanji": "​誇張",
+    "hiragana": "こちょう",
+    "romaji": "kochou",
+    "meaning": " exaggeration"
+  },
+  {
+    "id": 216,
+    "kanji": "孤独",
+    "hiragana": "こどく",
+    "romaji": "kodoku",
+    "meaning": " solitude, loneliness, isolation"
+  },
+  {
+    "id": 217,
+    "kanji": "試みる",
+    "hiragana": "こころみる",
+    "romaji": "kokoromiru",
+    "meaning": " to try, to attempt"
+  },
+  {
+    "id": 218,
+    "kanji": "根拠",
+    "hiragana": "こんきょ",
+    "romaji": "konkyo",
+    "meaning": " basis, foundation​"
+  },
+  {
+    "id": 219,
+    "kanji": "個性",
+    "hiragana": "こせい",
+    "romaji": "kosei",
+    "meaning": " individuality, personality"
+  },
+  {
+    "id": 220,
+    "kanji": "固定",
+    "hiragana": "こてい",
+    "romaji": "kotei",
+    "meaning": " fixation, fixing"
+  },
+  {
+    "id": 221,
+    "kanji": "興奮",
+    "hiragana": "こうふん",
+    "romaji": "koufun",
+    "meaning": " excitement, stimulation, agitation"
+  },
+  {
+    "id": 222,
+    "kanji": "抗議",
+    "hiragana": "こうぎ",
+    "romaji": "kougi",
+    "meaning": " protest, objection​"
+  },
+  {
+    "id": 223,
+    "kanji": "行為",
+    "hiragana": "こうい",
+    "romaji": "koui",
+    "meaning": " act, deed, conduct​"
+  },
+  {
+    "id": 224,
+    "kanji": "好意",
+    "hiragana": "こうい",
+    "romaji": "koui",
+    "meaning": " good will, favor, courtesy"
+  },
+  {
+    "id": 225,
+    "kanji": "公開",
+    "hiragana": "こうかい",
+    "romaji": "koukai",
+    "meaning": " making available to the public"
+  },
+  {
+    "id": 226,
+    "kanji": "後悔",
+    "hiragana": "こうかい",
+    "romaji": "koukai",
+    "meaning": " regret, repentance, remorse​"
+  },
+  {
+    "id": 227,
+    "kanji": "購入",
+    "hiragana": "こうにゅう",
+    "romaji": "kounyuu",
+    "meaning": " purchase, buy​"
+  },
+  {
+    "id": 228,
+    "kanji": "効率",
+    "hiragana": "こうりつ",
+    "romaji": "kouritsu",
+    "meaning": " efficiency"
+  },
+  {
+    "id": 229,
+    "kanji": "交渉",
+    "hiragana": "こうしょう",
+    "romaji": "koushou",
+    "meaning": " negotiations, discussions​"
+  },
+  {
+    "id": 230,
+    "kanji": "雇用",
+    "hiragana": "こよう",
+    "romaji": "koyou",
+    "meaning": " employment, hire​"
+  },
+  {
+    "id": 231,
+    "kanji": "口調",
+    "hiragana": "くちょう",
+    "romaji": "kuchou",
+    "meaning": " tone, (verbal) expression​"
+  },
+  {
+    "id": 232,
+    "kanji": "苦しみ",
+    "hiragana": "くるしみ",
+    "romaji": "kurushimi",
+    "meaning": " pain, anguish, suffering"
+  },
+  {
+    "id": 233,
+    "kanji": "屈辱",
+    "hiragana": "くつじょく",
+    "romaji": "kutsujoku",
+    "meaning": " disgrace, humiliation​"
+  },
+  {
+    "id": 234,
+    "kanji": "拒否",
+    "hiragana": "きょひ",
+    "romaji": "kyohi",
+    "meaning": " refusal, rejection, denial"
+  },
+  {
+    "id": 235,
+    "kanji": "極端",
+    "hiragana": "きょくたん",
+    "romaji": "kyokutan",
+    "meaning": " extreme, extremity​"
+  },
+  {
+    "id": 236,
+    "kanji": "脅迫",
+    "hiragana": "きょうはく",
+    "romaji": "kyouhaku",
+    "meaning": " threat, menace, coercion"
+  },
+  {
+    "id": 237,
+    "kanji": "脅威",
+    "hiragana": "きょうい",
+    "romaji": "kyoui",
+    "meaning": " threat, menace​"
+  },
+  {
+    "id": 238,
+    "kanji": "享受",
+    "hiragana": "きょうじゅ",
+    "romaji": "kyouju",
+    "meaning": " reception, acceptance, enjoyment"
+  },
+  {
+    "id": 239,
+    "kanji": "共感",
+    "hiragana": "きょうかん",
+    "romaji": "kyoukan",
+    "meaning": " sympathy, empathy, response​"
+  },
+  {
+    "id": 240,
+    "kanji": "教訓",
+    "hiragana": "きょうくん",
+    "romaji": "kyoukun",
+    "meaning": " lesson, precept"
+  },
+  {
+    "id": 241,
+    "kanji": "強烈",
+    "hiragana": "きょうれつ",
+    "romaji": "kyouretsu",
+    "meaning": " strong, intense, severe​"
+  },
+  {
+    "id": 242,
+    "kanji": "共産",
+    "hiragana": "きょうさん",
+    "romaji": "kyousan",
+    "meaning": " communism"
+  },
+  {
+    "id": 243,
+    "kanji": "強制",
+    "hiragana": "きょうせい",
+    "romaji": "kyousei",
+    "meaning": " obligation, coercion, compulsion"
+  },
+  {
+    "id": 244,
+    "kanji": "究極",
+    "hiragana": "きゅうきょく",
+    "romaji": "kyuukyoku",
+    "meaning": " ultimate, extreme, final"
+  },
+  {
+    "id": 245,
+    "kanji": "救済",
+    "hiragana": "きゅうさい",
+    "romaji": "kyuusai",
+    "meaning": " relief, aid, rescue"
+  },
+  {
+    "id": 246,
+    "kanji": "恵む",
+    "hiragana": "めぐむ",
+    "romaji": "megumu",
+    "meaning": " to bless, to show mercy to​"
+  },
+  {
+    "id": 247,
+    "kanji": "明白",
+    "hiragana": "めいはく",
+    "romaji": "meihaku",
+    "meaning": " obvious, clear, plain"
+  },
+  {
+    "id": 248,
+    "kanji": "明瞭",
+    "hiragana": "めいりょう",
+    "romaji": "meiryou",
+    "meaning": " clarity, clearness​"
+  },
+  {
+    "id": 249,
+    "kanji": "名誉",
+    "hiragana": "めいよ",
+    "romaji": "meiyo",
+    "meaning": " honor, credit, prestige​"
+  },
+  {
+    "id": 250,
+    "kanji": "未知",
+    "hiragana": "みち",
+    "romaji": "michi",
+    "meaning": " not yet known, unknown"
+  },
+  {
+    "id": 251,
+    "kanji": "身近",
+    "hiragana": "みぢか",
+    "romaji": "midjika",
+    "meaning": " near oneself, close to one, familiar"
+  },
+  {
+    "id": 252,
+    "kanji": "見方",
+    "hiragana": "みかた",
+    "romaji": "mikata",
+    "meaning": " viewpoint, point of view"
+  },
+  {
+    "id": 253,
+    "kanji": "源",
+    "hiragana": "みなもと",
+    "romaji": "minamoto",
+    "meaning": " source, origin, root​"
+  },
+  {
+    "id": 254,
+    "kanji": "満たす",
+    "hiragana": "みたす",
+    "romaji": "mitasu",
+    "meaning": " to satisfy, to fulfill, to gratify"
+  },
+  {
+    "id": 255,
+    "kanji": "漏らす",
+    "hiragana": "もらす",
+    "romaji": "morasu",
+    "meaning": " to let leak, to reveal​"
+  },
+  {
+    "id": 256,
+    "kanji": "摸索",
+    "hiragana": "もさく",
+    "romaji": "mosaku",
+    "meaning": " groping (for), exploring for a solution"
+  },
+  {
+    "id": 257,
+    "kanji": "齎す",
+    "hiragana": "もたらす",
+    "romaji": "motarasu",
+    "meaning": " to bring, to take, to bring about​"
+  },
+  {
+    "id": 258,
+    "kanji": "無実",
+    "hiragana": "むじつ",
+    "romaji": "mujitsu",
+    "meaning": " innocence, guiltlessness"
+  },
+  {
+    "id": 259,
+    "kanji": "無効",
+    "hiragana": "むこう",
+    "romaji": "mukou",
+    "meaning": " invalid, no effect"
+  },
+  {
+    "id": 260,
+    "kanji": "無力",
+    "hiragana": "むりょく",
+    "romaji": "muryoku",
+    "meaning": " powerlessness, incompetent"
+  },
+  {
+    "id": 261,
+    "kanji": "悩み",
+    "hiragana": "なやみ",
+    "romaji": "nayami",
+    "meaning": " trouble, worry, distress"
+  },
+  {
+    "id": 262,
+    "kanji": "燃料",
+    "hiragana": "ねんりょう",
+    "romaji": "nenryou",
+    "meaning": " fuel"
+  },
+  {
+    "id": 263,
+    "kanji": "熱意",
+    "hiragana": "ねつい",
+    "romaji": "netsui",
+    "meaning": " zeal, enthusiasm​"
+  },
+  {
+    "id": 264,
+    "kanji": "憎しみ",
+    "hiragana": "にくしみ",
+    "romaji": "nikushimi",
+    "meaning": " hatred"
+  },
+  {
+    "id": 265,
+    "kanji": "肉体",
+    "hiragana": "にくたい",
+    "romaji": "nikutai",
+    "meaning": " the body, the flesh​"
+  },
+  {
+    "id": 266,
+    "kanji": "担う",
+    "hiragana": "になう",
+    "romaji": "ninau",
+    "meaning": " to carry on shoulder, to bear"
+  },
+  {
+    "id": 267,
+    "kanji": "認識",
+    "hiragana": "にんしき",
+    "romaji": "ninshiki",
+    "meaning": " recognition, awareness, perception"
+  },
+  {
+    "id": 268,
+    "kanji": "妊娠",
+    "hiragana": "にんしん",
+    "romaji": "ninshin",
+    "meaning": " conception, pregnancy​"
+  },
+  {
+    "id": 269,
+    "kanji": "農場",
+    "hiragana": "のうじょう",
+    "romaji": "noujou",
+    "meaning": " farm (agriculture)​"
+  },
+  {
+    "id": 270,
+    "kanji": "覚え",
+    "hiragana": "おぼえ",
+    "romaji": "oboe",
+    "meaning": " memory, sense, experience​"
+  },
+  {
+    "id": 271,
+    "kanji": "犯す",
+    "hiragana": "おかす",
+    "romaji": "okasu",
+    "meaning": " to commit (e.g. crime)"
+  },
+  {
+    "id": 272,
+    "kanji": "重荷",
+    "hiragana": "おもに",
+    "romaji": "omoni",
+    "meaning": " load, heavy burden"
+  },
+  {
+    "id": 273,
+    "kanji": "大幅",
+    "hiragana": "おおはば",
+    "romaji": "oohaba",
+    "meaning": " big, large, substantial"
+  },
+  {
+    "id": 274,
+    "kanji": "愚か",
+    "hiragana": "おろか",
+    "romaji": "oroka",
+    "meaning": " foolish, stupid​"
+  },
+  {
+    "id": 275,
+    "kanji": "恐れ",
+    "hiragana": "おそれ",
+    "romaji": "osore",
+    "meaning": " fear, horror, anxiety"
+  },
+  {
+    "id": 276,
+    "kanji": "襲う",
+    "hiragana": "おそう",
+    "romaji": "osou",
+    "meaning": " to attack, to assail"
+  },
+  {
+    "id": 277,
+    "kanji": "訪れる",
+    "hiragana": "おとずれる",
+    "romaji": "otozureru",
+    "meaning": " to visit, to call on​"
+  },
+  {
+    "id": 278,
+    "kanji": "負う",
+    "hiragana": "おう",
+    "romaji": "ou",
+    "meaning": " to bear, to take responsibility for"
+  },
+  {
+    "id": 279,
+    "kanji": "楽観",
+    "hiragana": "らっかん",
+    "romaji": "rakkan",
+    "meaning": " optimism"
+  },
+  {
+    "id": 280,
+    "kanji": "連中",
+    "hiragana": "れんちゅう",
+    "romaji": "renchuu",
+    "meaning": " company, lot, bunch"
+  },
+  {
+    "id": 281,
+    "kanji": "理屈",
+    "hiragana": "りくつ",
+    "romaji": "rikutsu",
+    "meaning": " theory, reason​"
+  },
+  {
+    "id": 282,
+    "kanji": "理性",
+    "hiragana": "りせい",
+    "romaji": "risei",
+    "meaning": " reason, reasoning power"
+  },
+  {
+    "id": 283,
+    "kanji": "利息",
+    "hiragana": "りそく",
+    "romaji": "risoku",
+    "meaning": " interest (bank)​"
+  },
+  {
+    "id": 284,
+    "kanji": "理論",
+    "hiragana": "りろん",
+    "romaji": "riron",
+    "meaning": " theory"
+  },
+  {
+    "id": 285,
+    "kanji": "論理",
+    "hiragana": "ろんり",
+    "romaji": "ronri",
+    "meaning": " logic, logical"
+  },
+  {
+    "id": 286,
+    "kanji": "浪費",
+    "hiragana": "ろうひ",
+    "romaji": "rouhi",
+    "meaning": " waste, extravagance​"
+  },
+  {
+    "id": 287,
+    "kanji": "領域",
+    "hiragana": "りょういき",
+    "romaji": "ryouiki",
+    "meaning": " area, domain, territory"
+  },
+  {
+    "id": 288,
+    "kanji": "良心",
+    "hiragana": "りょうしん",
+    "romaji": "ryoushin",
+    "meaning": " conscience"
+  },
+  {
+    "id": 289,
+    "kanji": "察知",
+    "hiragana": "さcち",
+    "romaji": "sacchi",
+    "meaning": " sense, infer​"
+  },
+  {
+    "id": 290,
+    "kanji": "定める",
+    "hiragana": "さだめる",
+    "romaji": "sadameru",
+    "meaning": " to decide, to establish, to determine"
+  },
+  {
+    "id": 291,
+    "kanji": "最悪",
+    "hiragana": "さいあく",
+    "romaji": "saiaku",
+    "meaning": " the worst​"
+  },
+  {
+    "id": 292,
+    "kanji": "細部",
+    "hiragana": "さいぶ",
+    "romaji": "saibu",
+    "meaning": " details"
+  },
+  {
+    "id": 293,
+    "kanji": "再生",
+    "hiragana": "さいせい",
+    "romaji": "saisei",
+    "meaning": " resuscitation, regeneration"
+  },
+  {
+    "id": 294,
+    "kanji": "採用",
+    "hiragana": "さいよう",
+    "romaji": "saiyou",
+    "meaning": " use, adoption, acceptance​"
+  },
+  {
+    "id": 295,
+    "kanji": "最善",
+    "hiragana": "さいぜん",
+    "romaji": "saizen",
+    "meaning": " the very best, utmost​"
+  },
+  {
+    "id": 296,
+    "kanji": "栄える",
+    "hiragana": "さかえる",
+    "romaji": "sakaeru",
+    "meaning": " to prosper, to flourish​"
+  },
+  {
+    "id": 297,
+    "kanji": "作戦",
+    "hiragana": "さくせん",
+    "romaji": "sakusen",
+    "meaning": " tactics, strategy​"
+  },
+  {
+    "id": 298,
+    "kanji": "悟る",
+    "hiragana": "さとる",
+    "romaji": "satoru",
+    "meaning": " to perceive, to sense, to understand"
+  },
+  {
+    "id": 299,
+    "kanji": "世代",
+    "hiragana": "せだい",
+    "romaji": "sedai",
+    "meaning": " generation, the world, the age​"
+  },
+  {
+    "id": 300,
+    "kanji": "征服",
+    "hiragana": "せいふく",
+    "romaji": "seifuku",
+    "meaning": " conquest, subjugation"
+  },
+  {
+    "id": 301,
+    "kanji": "制服",
+    "hiragana": "せいふく",
+    "romaji": "seifuku",
+    "meaning": " uniform"
+  },
+  {
+    "id": 302,
+    "kanji": "正義",
+    "hiragana": "せいぎ",
+    "romaji": "seigi",
+    "meaning": " justice, right, righteousness"
+  },
+  {
+    "id": 303,
+    "kanji": "誠実",
+    "hiragana": "せいじつ",
+    "romaji": "seijitsu",
+    "meaning": " sincere, honest, faithful​"
+  },
+  {
+    "id": 304,
+    "kanji": "成熟",
+    "hiragana": "せいじゅく",
+    "romaji": "seijuku",
+    "meaning": " maturity, ripeness​"
+  },
+  {
+    "id": 305,
+    "kanji": "成果",
+    "hiragana": "せいか",
+    "romaji": "seika",
+    "meaning": " fruits (of one’s labors), accomplishment"
+  },
+  {
+    "id": 306,
+    "kanji": "政権",
+    "hiragana": "せいけん",
+    "romaji": "seiken",
+    "meaning": " (political) administration, political power​"
+  },
+  {
+    "id": 307,
+    "kanji": "政策",
+    "hiragana": "せいさく",
+    "romaji": "seisaku",
+    "meaning": " political measures, policy​"
+  },
+  {
+    "id": 308,
+    "kanji": "正当",
+    "hiragana": "せいとう",
+    "romaji": "seitou",
+    "meaning": " just, justifiable, right"
+  },
+  {
+    "id": 309,
+    "kanji": "選挙",
+    "hiragana": "せんきょ",
+    "romaji": "senkyo",
+    "meaning": " election"
+  },
+  {
+    "id": 310,
+    "kanji": "戦略",
+    "hiragana": "せんりゃく",
+    "romaji": "senryaku",
+    "meaning": " strategy, tactics​"
+  },
+  {
+    "id": 311,
+    "kanji": "占領",
+    "hiragana": "せんりょう",
+    "romaji": "senryou",
+    "meaning": " occupying, possession, capture"
+  },
+  {
+    "id": 312,
+    "kanji": "戦闘",
+    "hiragana": "せんとう",
+    "romaji": "sentou",
+    "meaning": " battle, fight, combat​"
+  },
+  {
+    "id": 313,
+    "kanji": "専用",
+    "hiragana": "せにょう",
+    "romaji": "senyou",
+    "meaning": " exclusive use, personal use"
+  },
+  {
+    "id": 314,
+    "kanji": "接触",
+    "hiragana": "せっしょく",
+    "romaji": "sesshoku",
+    "meaning": " touch, contact​"
+  },
+  {
+    "id": 315,
+    "kanji": "設定",
+    "hiragana": "せってい",
+    "romaji": "settei",
+    "meaning": " establishment, creation, setting"
+  },
+  {
+    "id": 316,
+    "kanji": "説得",
+    "hiragana": "せっとく",
+    "romaji": "settoku",
+    "meaning": " persuasion"
+  },
+  {
+    "id": 317,
+    "kanji": "設立",
+    "hiragana": "せつりつ",
+    "romaji": "setsuritsu",
+    "meaning": " establishment, founding"
+  },
+  {
+    "id": 318,
+    "kanji": "死",
+    "hiragana": "し",
+    "romaji": "shi",
+    "meaning": " death, decease​"
+  },
+  {
+    "id": 319,
+    "kanji": "強いる",
+    "hiragana": "しいる",
+    "romaji": "shiiru",
+    "meaning": " to force, to compel, to coerce​"
+  },
+  {
+    "id": 320,
+    "kanji": "支持",
+    "hiragana": "しじ",
+    "romaji": "shiji",
+    "meaning": " support, holding up, backing"
+  },
+  {
+    "id": 321,
+    "kanji": "指示",
+    "hiragana": "しじ",
+    "romaji": "shiji",
+    "meaning": " instructions, directions, ​indication"
+  },
+  {
+    "id": 322,
+    "kanji": "資格",
+    "hiragana": "しかく",
+    "romaji": "shikaku",
+    "meaning": " qualifications, requirements"
+  },
+  {
+    "id": 323,
+    "kanji": "指揮",
+    "hiragana": "しき",
+    "romaji": "shiki",
+    "meaning": " command, direction​"
+  },
+  {
+    "id": 324,
+    "kanji": "資金",
+    "hiragana": "しきん",
+    "romaji": "shikin",
+    "meaning": " funds, capital​"
+  },
+  {
+    "id": 325,
+    "kanji": "仕組み",
+    "hiragana": "しくみ",
+    "romaji": "shikumi",
+    "meaning": " structure, construction"
+  },
+  {
+    "id": 326,
+    "kanji": "使命",
+    "hiragana": "しめい",
+    "romaji": "shimei",
+    "meaning": " mission, errand​, task"
+  },
+  {
+    "id": 327,
+    "kanji": "辛抱",
+    "hiragana": "しんぼう",
+    "romaji": "shinbou",
+    "meaning": " patience, endurance​"
+  },
+  {
+    "id": 328,
+    "kanji": "進化",
+    "hiragana": "しんか",
+    "romaji": "shinka",
+    "meaning": " evolution, progress​"
+  },
+  {
+    "id": 329,
+    "kanji": "侵略",
+    "hiragana": "しんりゃく",
+    "romaji": "shinryaku",
+    "meaning": " aggression, invasion"
+  },
+  {
+    "id": 330,
+    "kanji": "思考",
+    "hiragana": "しこう",
+    "romaji": "shikou",
+    "meaning": " thought, consideration, thinking​"
+  },
+  {
+    "id": 331,
+    "kanji": "真実",
+    "hiragana": "しんじつ",
+    "romaji": "shinjitsu",
+    "meaning": " truth, reality​"
+  },
+  {
+    "id": 332,
+    "kanji": "真理",
+    "hiragana": "しんり",
+    "romaji": "shinri",
+    "meaning": " truth"
+  },
+  {
+    "id": 333,
+    "kanji": "真相",
+    "hiragana": "しんそう",
+    "romaji": "shinsou",
+    "meaning": " truth, real situation​"
+  },
+  {
+    "id": 334,
+    "kanji": "進展",
+    "hiragana": "しんてん",
+    "romaji": "shinten",
+    "meaning": " progress, development​"
+  },
+  {
+    "id": 335,
+    "kanji": "資産",
+    "hiragana": "しさん",
+    "romaji": "shisan",
+    "meaning": " property, fortune, assets"
+  },
+  {
+    "id": 336,
+    "kanji": "視線",
+    "hiragana": "しせん",
+    "romaji": "shisen",
+    "meaning": " one’s line of sight, one’s gaze"
+  },
+  {
+    "id": 337,
+    "kanji": "指摘",
+    "hiragana": "してき",
+    "romaji": "shiteki",
+    "meaning": " pointing out, identification​"
+  },
+  {
+    "id": 338,
+    "kanji": "嫉妬",
+    "hiragana": "しっと",
+    "romaji": "shitto",
+    "meaning": " jealousy, envy​"
+  },
+  {
+    "id": 339,
+    "kanji": "視野",
+    "hiragana": "しや",
+    "romaji": "shiya",
+    "meaning": " field of vision, outlook​"
+  },
+  {
+    "id": 340,
+    "kanji": "処分",
+    "hiragana": "しょぶん",
+    "romaji": "shobun",
+    "meaning": " disposal, dealing (with a problem)"
+  },
+  {
+    "id": 341,
+    "kanji": "職務",
+    "hiragana": "しょくむ",
+    "romaji": "shokumu",
+    "meaning": " professional duties​"
+  },
+  {
+    "id": 342,
+    "kanji": "所得",
+    "hiragana": "しょとく",
+    "romaji": "shotoku",
+    "meaning": " income, earnings​"
+  },
+  {
+    "id": 343,
+    "kanji": "象徴",
+    "hiragana": "しょうちょう",
+    "romaji": "shouchou",
+    "meaning": " symbol"
+  },
+  {
+    "id": 344,
+    "kanji": "衝動",
+    "hiragana": "しょうどう",
+    "romaji": "shoudou",
+    "meaning": " impulse, impetus, urge​"
+  },
+  {
+    "id": 345,
+    "kanji": "生涯",
+    "hiragana": "しょうがい",
+    "romaji": "shougai",
+    "meaning": " one’s lifetime"
+  },
+  {
+    "id": 346,
+    "kanji": "証言",
+    "hiragana": "しょうげん",
+    "romaji": "shougen",
+    "meaning": " testimony, (verbal) evidence​"
+  },
+  {
+    "id": 347,
+    "kanji": "証拠",
+    "hiragana": "しょうこ",
+    "romaji": "shouko",
+    "meaning": " evidence, proof​"
+  },
+  {
+    "id": 348,
+    "kanji": "照明",
+    "hiragana": "しょうめい",
+    "romaji": "shoumei",
+    "meaning": " illumination, lighting​"
+  },
+  {
+    "id": 349,
+    "kanji": "消滅",
+    "hiragana": "しょうめつ",
+    "romaji": "shoumetsu",
+    "meaning": " extinction, extinguishment"
+  },
+  {
+    "id": 350,
+    "kanji": "奨励",
+    "hiragana": "しょうれい",
+    "romaji": "shourei",
+    "meaning": " encouragement, promotion"
+  },
+  {
+    "id": 351,
+    "kanji": "詳細",
+    "hiragana": "しょうさい",
+    "romaji": "shousai",
+    "meaning": " detail, particulars​"
+  },
+  {
+    "id": 352,
+    "kanji": "昇進",
+    "hiragana": "しょうしん",
+    "romaji": "shoushin",
+    "meaning": " promotion, advancement"
+  },
+  {
+    "id": 353,
+    "kanji": "少数",
+    "hiragana": "しょうすう",
+    "romaji": "shousuu",
+    "meaning": " minority, few​"
+  },
+  {
+    "id": 354,
+    "kanji": "正体",
+    "hiragana": "しょうたい",
+    "romaji": "shoutai",
+    "meaning": " true character, true form"
+  },
+  {
+    "id": 355,
+    "kanji": "勝利",
+    "hiragana": "しょうり",
+    "romaji": "shouri",
+    "meaning": " victory, triumph, win"
+  },
+  {
+    "id": 356,
+    "kanji": "所有",
+    "hiragana": "しょゆう",
+    "romaji": "shoyuu",
+    "meaning": " one’s possessions, ownership​"
+  },
+  {
+    "id": 357,
+    "kanji": "主導",
+    "hiragana": "しゅどう",
+    "romaji": "shudou",
+    "meaning": " leadership, initiative, spearhead​"
+  },
+  {
+    "id": 358,
+    "kanji": "守衛",
+    "hiragana": "しゅえい",
+    "romaji": "shuei",
+    "meaning": " security guard, doorkeeper​"
+  },
+  {
+    "id": 359,
+    "kanji": "手法",
+    "hiragana": "しゅほう",
+    "romaji": "shuhou",
+    "meaning": " technique, method​"
+  },
+  {
+    "id": 360,
+    "kanji": "収集",
+    "hiragana": "しゅうしゅう",
+    "romaji": "shuushuu",
+    "meaning": " gathering up, collection"
+  },
+  {
+    "id": 361,
+    "kanji": "収益",
+    "hiragana": "しゅうえき",
+    "romaji": "shuueki",
+    "meaning": " earnings, proceeds, returns"
+  },
+  {
+    "id": 362,
+    "kanji": "措置",
+    "hiragana": "そち",
+    "romaji": "sochi",
+    "meaning": " measure, measures, step​"
+  },
+  {
+    "id": 363,
+    "kanji": "損なう",
+    "hiragana": "そこなう",
+    "romaji": "sokonau",
+    "meaning": " to harm, to hurt, to injure"
+  },
+  {
+    "id": 364,
+    "kanji": "促進",
+    "hiragana": "そくしん",
+    "romaji": "sokushin",
+    "meaning": " promotion, acceleration"
+  },
+  {
+    "id": 365,
+    "kanji": "染まる",
+    "hiragana": "そまる",
+    "romaji": "somaru",
+    "meaning": " to be dyed​, to be tainted, to be infected"
+  },
+  {
+    "id": 366,
+    "kanji": "即座に",
+    "hiragana": "そくざ に",
+    "romaji": "sokuza ni",
+    "meaning": " immediately, right away"
+  },
+  {
+    "id": 367,
+    "kanji": "阻止",
+    "hiragana": "そし",
+    "romaji": "soshi",
+    "meaning": " obstruction, check, hindrance"
+  },
+  {
+    "id": 368,
+    "kanji": "備わる",
+    "hiragana": "そなわる",
+    "romaji": "sonawaru",
+    "meaning": " to be furnished with, to be equipped with​"
+  },
+  {
+    "id": 369,
+    "kanji": "損失",
+    "hiragana": "そんしつ",
+    "romaji": "sonshitsu",
+    "meaning": " loss (e.g. assets or profits)​"
+  },
+  {
+    "id": 370,
+    "kanji": "訴訟",
+    "hiragana": "そしょう",
+    "romaji": "soshou",
+    "meaning": " liftigation, lawsuit​"
+  },
+  {
+    "id": 371,
+    "kanji": "装備",
+    "hiragana": "そうび",
+    "romaji": "soubi",
+    "meaning": " equipment"
+  },
+  {
+    "id": 372,
+    "kanji": "捜査",
+    "hiragana": "そうさ",
+    "romaji": "sousa",
+    "meaning": " search, investigation"
+  },
+  {
+    "id": 373,
+    "kanji": "創造",
+    "hiragana": "そうぞう",
+    "romaji": "souzou",
+    "meaning": " creation"
+  },
+  {
+    "id": 374,
+    "kanji": "遂行",
+    "hiragana": "すいこう",
+    "romaji": "suikou",
+    "meaning": " accomplishment, execution​"
+  },
+  {
+    "id": 375,
+    "kanji": "衰退",
+    "hiragana": "すいたい",
+    "romaji": "suitai",
+    "meaning": " decline, degeneration, decay"
+  },
+  {
+    "id": 376,
+    "kanji": "推進",
+    "hiragana": "すいしん",
+    "romaji": "suishin",
+    "meaning": " propulsion, drive​, promotion"
+  },
+  {
+    "id": 377,
+    "kanji": "好く",
+    "hiragana": "すく",
+    "romaji": "suku",
+    "meaning": " to like, to love"
+  },
+  {
+    "id": 378,
+    "kanji": "体験",
+    "hiragana": "たいけん",
+    "romaji": "taiken",
+    "meaning": " personal experience, physical experience"
+  },
+  {
+    "id": 379,
+    "kanji": "対応",
+    "hiragana": "たいおう",
+    "romaji": "taiou",
+    "meaning": " correspondence, coping with"
+  },
+  {
+    "id": 380,
+    "kanji": "態勢",
+    "hiragana": "たいせい",
+    "romaji": "taisei",
+    "meaning": " attitude, posture, preparedness"
+  },
+  {
+    "id": 381,
+    "kanji": "対処",
+    "hiragana": "たいしょ",
+    "romaji": "taisho",
+    "meaning": " dealing with, coping with"
+  },
+  {
+    "id": 382,
+    "kanji": "退職",
+    "hiragana": "たいしょく",
+    "romaji": "taishoku",
+    "meaning": " retirement, resignation​"
+  },
+  {
+    "id": 383,
+    "kanji": "大衆",
+    "hiragana": "たいしゅう",
+    "romaji": "taishuu",
+    "meaning": " general public, the masses​"
+  },
+  {
+    "id": 384,
+    "kanji": "高まる",
+    "hiragana": "たかまる",
+    "romaji": "takamaru",
+    "meaning": " to rise, to swell"
+  },
+  {
+    "id": 385,
+    "kanji": "企む",
+    "hiragana": "たくらむ",
+    "romaji": "takuramu",
+    "meaning": " to scheme, to plan, to conspire"
+  },
+  {
+    "id": 386,
+    "kanji": "保つ",
+    "hiragana": "たもつ",
+    "romaji": "tamotsu",
+    "meaning": " to keep, to preserve, to maintain"
+  },
+  {
+    "id": 387,
+    "kanji": "達成",
+    "hiragana": "たっせい",
+    "romaji": "tassei",
+    "meaning": " achievement"
+  },
+  {
+    "id": 388,
+    "kanji": "提供",
+    "hiragana": "ていきょう",
+    "romaji": "teikyou",
+    "meaning": " offer, provisioning, supply​"
+  },
+  {
+    "id": 389,
+    "kanji": "停滞",
+    "hiragana": "ていたい",
+    "romaji": "teitai",
+    "meaning": " stagnation, tie-up, congestion"
+  },
+  {
+    "id": 390,
+    "kanji": "手順",
+    "hiragana": "てじゅん",
+    "romaji": "tejun",
+    "meaning": " process, procedure, sequence"
+  },
+  {
+    "id": 391,
+    "kanji": "適応",
+    "hiragana": "てきおう",
+    "romaji": "tekiou",
+    "meaning": " adaptation, accommodation"
+  },
+  {
+    "id": 392,
+    "kanji": "展示",
+    "hiragana": "てんじ",
+    "romaji": "tenji",
+    "meaning": " exhibition, display​"
+  },
+  {
+    "id": 393,
+    "kanji": "天井",
+    "hiragana": "てんじょう",
+    "romaji": "tenjou",
+    "meaning": " ceiling, ceiling price​"
+  },
+  {
+    "id": 394,
+    "kanji": "転換",
+    "hiragana": "てんかん",
+    "romaji": "tenkan",
+    "meaning": " conversion, changeover"
+  },
+  {
+    "id": 395,
+    "kanji": "点検",
+    "hiragana": "てんけん",
+    "romaji": "tenken",
+    "meaning": " inspection, examination, checking​"
+  },
+  {
+    "id": 396,
+    "kanji": "天才",
+    "hiragana": "てんさい",
+    "romaji": "tensai",
+    "meaning": " genius, prodigy"
+  },
+  {
+    "id": 397,
+    "kanji": "手遅れ",
+    "hiragana": "ておくれ",
+    "romaji": "teokure",
+    "meaning": " being (too) late​"
+  },
+  {
+    "id": 398,
+    "kanji": "扉",
+    "hiragana": "とびら",
+    "romaji": "tobira",
+    "meaning": " door, gate, opening​"
+  },
+  {
+    "id": 399,
+    "kanji": "乏しい",
+    "hiragana": "とぼしい",
+    "romaji": "toboshii",
+    "meaning": " meagre, scarce, lacking"
+  },
+  {
+    "id": 400,
+    "kanji": "特権",
+    "hiragana": "とっけん",
+    "romaji": "tokken",
+    "meaning": " privilege, special right​"
+  },
+  {
+    "id": 401,
+    "kanji": "富",
+    "hiragana": "とみ",
+    "romaji": "tomi",
+    "meaning": " riches, wealth, fortune​"
+  },
+  {
+    "id": 402,
+    "kanji": "富む",
+    "hiragana": "とむ",
+    "romaji": "tomu",
+    "meaning": " to be rich in, to abound in"
+  },
+  {
+    "id": 403,
+    "kanji": "突破",
+    "hiragana": "とっぱ",
+    "romaji": "toppa",
+    "meaning": " breaking through, penetration​"
+  },
+  {
+    "id": 404,
+    "kanji": "取引",
+    "hiragana": "とりひき",
+    "romaji": "torihiki",
+    "meaning": " transactions, dealings"
+  },
+  {
+    "id": 405,
+    "kanji": "整える",
+    "hiragana": "ととのえる",
+    "romaji": "totonoeru",
+    "meaning": " to put in order, to adjust​"
+  },
+  {
+    "id": 406,
+    "kanji": "統合",
+    "hiragana": "とうごう",
+    "romaji": "tougou",
+    "meaning": " integration, unification, synthesis​"
+  },
+  {
+    "id": 407,
+    "kanji": "投入",
+    "hiragana": "とうにゅう",
+    "romaji": "tounyuu",
+    "meaning": " throwing into, inserting"
+  },
+  {
+    "id": 408,
+    "kanji": "討論",
+    "hiragana": "とうろん",
+    "romaji": "touron",
+    "meaning": " debate, discussion​"
+  },
+  {
+    "id": 409,
+    "kanji": "統制",
+    "hiragana": "とうせい",
+    "romaji": "tousei",
+    "meaning": " regulation, control​"
+  },
+  {
+    "id": 410,
+    "kanji": "投資",
+    "hiragana": "とうし",
+    "romaji": "toushi",
+    "meaning": " investment"
+  },
+  {
+    "id": 411,
+    "kanji": "到達",
+    "hiragana": "とうたつ",
+    "romaji": "toutatsu",
+    "meaning": " reaching, attaining, arrival​"
+  },
+  {
+    "id": 412,
+    "kanji": "告げる",
+    "hiragana": "つげる",
+    "romaji": "tsugeru",
+    "meaning": " to tell, to inform"
+  },
+  {
+    "id": 413,
+    "kanji": "追求",
+    "hiragana": "ついきゅう",
+    "romaji": "tsuikyuu",
+    "meaning": " pursuit (of a goal, ideal, etc.)"
+  },
+  {
+    "id": 414,
+    "kanji": "追跡",
+    "hiragana": "ついせき",
+    "romaji": "tsuiseki",
+    "meaning": " chase, pursuit, tracing"
+  },
+  {
+    "id": 415,
+    "kanji": "費やす",
+    "hiragana": "ついやす",
+    "romaji": "tsuiyasu",
+    "meaning": " to spend, to consume"
+  },
+  {
+    "id": 416,
+    "kanji": "募る",
+    "hiragana": "つのる",
+    "romaji": "tsunoru",
+    "meaning": " to grow violent, to become stronger"
+  },
+  {
+    "id": 417,
+    "kanji": "通常",
+    "hiragana": "つうじょう",
+    "romaji": "tsuujou",
+    "meaning": " common, general, normal, usual​"
+  },
+  {
+    "id": 418,
+    "kanji": "強まる",
+    "hiragana": "つよまる",
+    "romaji": "tsuyomaru",
+    "meaning": " to get strong, to gain strength​"
+  },
+  {
+    "id": 419,
+    "kanji": "打ち明ける",
+    "hiragana": "うちあける",
+    "romaji": "uchiakeru",
+    "meaning": " to confide, to reveal"
+  },
+  {
+    "id": 420,
+    "kanji": "動き",
+    "hiragana": "うごき",
+    "romaji": "ugoki",
+    "meaning": " movement, move, motion​"
+  },
+  {
+    "id": 421,
+    "kanji": "促す",
+    "hiragana": "うながす",
+    "romaji": "unagasu",
+    "meaning": " to urge, to press, to prompt"
+  },
+  {
+    "id": 422,
+    "kanji": "運営",
+    "hiragana": "うん’えい",
+    "romaji": "un’ei",
+    "meaning": " management, administration"
+  },
+  {
+    "id": 423,
+    "kanji": "運命",
+    "hiragana": "うんめい",
+    "romaji": "unmei",
+    "meaning": " fate, destiny"
+  },
+  {
+    "id": 424,
+    "kanji": "運用",
+    "hiragana": "うにょう",
+    "romaji": "unyou",
+    "meaning": " making use of, application"
+  },
+  {
+    "id": 425,
+    "kanji": "薄れる",
+    "hiragana": "うすれる",
+    "romaji": "usureru",
+    "meaning": " to fade, to become dim​"
+  },
+  {
+    "id": 426,
+    "kanji": "罠",
+    "hiragana": "わな",
+    "romaji": "wana",
+    "meaning": " snare, trap"
+  },
+  {
+    "id": 427,
+    "kanji": "闇",
+    "hiragana": "やみ",
+    "romaji": "yami",
+    "meaning": " darkness, the dark"
+  },
+  {
+    "id": 428,
+    "kanji": "野心",
+    "hiragana": "やしん",
+    "romaji": "yashin",
+    "meaning": " ambition, aspiration​"
+  },
+  {
+    "id": 429,
+    "kanji": "養う",
+    "hiragana": "やしなう",
+    "romaji": "yashinau",
+    "meaning": " to support, to provide for"
+  },
+  {
+    "id": 430,
+    "kanji": "余地",
+    "hiragana": "よち",
+    "romaji": "yochi",
+    "meaning": " place, room, margin"
+  },
+  {
+    "id": 431,
+    "kanji": "予感",
+    "hiragana": "よかん",
+    "romaji": "yokan",
+    "meaning": " presentiment, premonition, hunch​"
+  },
+  {
+    "id": 432,
+    "kanji": "欲望",
+    "hiragana": "よくぼう",
+    "romaji": "yokubou",
+    "meaning": " desire, appetite, lust​"
+  },
+  {
+    "id": 433,
+    "kanji": "抑制",
+    "hiragana": "よくせい",
+    "romaji": "yokusei",
+    "meaning": " control, restraint, suppression"
+  },
+  {
+    "id": 434,
+    "kanji": "要因",
+    "hiragana": "よういん",
+    "romaji": "youin",
+    "meaning": " main cause, primary factor​"
+  },
+  {
+    "id": 435,
+    "kanji": "用件",
+    "hiragana": "ようけん",
+    "romaji": "youken",
+    "meaning": " business, thing to be done"
+  },
+  {
+    "id": 436,
+    "kanji": "要請",
+    "hiragana": "ようせい",
+    "romaji": "yousei",
+    "meaning": " appeal, request, demand"
+  },
+  {
+    "id": 437,
+    "kanji": "要する",
+    "hiragana": "よう する",
+    "romaji": "you suru",
+    "meaning": " to need, to demand, to require"
+  },
+  {
+    "id": 438,
+    "kanji": "弱める",
+    "hiragana": "よわめる",
+    "romaji": "yowameru",
+    "meaning": " to weaken​"
+  },
+  {
+    "id": 439,
+    "kanji": "勇敢",
+    "hiragana": "ゆうかん",
+    "romaji": "yuukan",
+    "meaning": " brave, heroic, gallant​"
+  },
+  {
+    "id": 440,
+    "kanji": "優先",
+    "hiragana": "ゆうせん",
+    "romaji": "yuusen",
+    "meaning": " preference, priority"
+  },
+  {
+    "id": 441,
+    "kanji": "融資",
+    "hiragana": "ゆうし",
+    "romaji": "yuushi",
+    "meaning": " financing, loan​"
+  },
+  {
+    "id": 442,
+    "kanji": "有する",
+    "hiragana": "ゆうする",
+    "romaji": "yuusuru",
+    "meaning": " to own, to be endowed with​"
+  },
+  {
+    "id": 443,
+    "kanji": "誘惑",
+    "hiragana": "ゆうわく",
+    "romaji": "yuuwaku",
+    "meaning": " temptation, allurement"
+  },
+  {
+    "id": 444,
+    "kanji": "財政",
+    "hiragana": "ざいせい",
+    "romaji": "zaisei",
+    "meaning": " public finance, financial affairs"
+  },
+  {
+    "id": 445,
+    "kanji": "残酷",
+    "hiragana": "ざんこく",
+    "romaji": "zankoku",
+    "meaning": " cruelty, harshness​"
+  },
+  {
+    "id": 446,
+    "kanji": "前提",
+    "hiragana": "ぜんてい",
+    "romaji": "zentei",
+    "meaning": " preamble, premise, reason"
+  },
+  {
+    "id": 447,
+    "kanji": "絶望",
+    "hiragana": "ぜつぼう",
+    "romaji": "zetsubou",
+    "meaning": " despair, hopelessness​"
+  },
+  {
+    "id": 448,
+    "kanji": "増強",
+    "hiragana": "ぞうきょう",
+    "romaji": "zoukyou",
+    "meaning": " augment, reinforce, increase​"
+  }
+]

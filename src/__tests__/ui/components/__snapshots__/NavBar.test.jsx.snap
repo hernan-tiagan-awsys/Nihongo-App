@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Check if Navigation Bar renders properly > Renders the webpage 1`] = `null`;

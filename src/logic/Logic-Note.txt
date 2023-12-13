@@ -1,0 +1,3 @@
+Folder Relative Path : src/Logic
+
+Parent Folder for all logic based js files.

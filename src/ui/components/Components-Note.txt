@@ -1,0 +1,5 @@
+Folder Relative Path : src/UI/Components
+
+Place all webpage Front-end Component files here e.g. Navbar, Forms, Modals, etc.
+
+Create a folder for each Component

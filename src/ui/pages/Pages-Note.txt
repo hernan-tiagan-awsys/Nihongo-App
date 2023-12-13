@@ -1,0 +1,10 @@
+Folder Relative Path : src/UI/Pages
+
+Place all webpage Front-end files here e.g. HTML, JS, CSS, etc.
+
+Create a folder for each webpage
+
+Try to minimize built in Components inside Pages. 
+Check if an existing component has been created or create a Components object to call inside pages.
+
+Pages should only have to call Components and hold UX functions.

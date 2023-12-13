@@ -1,0 +1,1518 @@
+{
+  "questions": [
+    {
+      "question": "_______ 、えいがをみにいきませんか？",
+      "options": [
+        "ゆうべ ( 昨夜 )",
+        "きのう ( 昨日 )",
+        "あした ( 明日 )",
+        "おととい ( 一昨日 )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "あした ( 明日 )",
+      "optionsTranslate": [
+        "Last night",
+        "Yesterday",
+        "Tomorrow",
+        "Day before yesterday"
+      ],
+      "questionTranslate": "Would you like to go see a movie tomorrow?"
+    },
+    {
+      "question": "わたしはいつも　_______ をききながらべんきょうします。",
+      "options": ["ぺん", "ラジオ", "テーブル", "ストーブ"],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ラジオ",
+      "optionsTranslate": ["Pen", "Radio", "Rable", "Stove"],
+      "questionTranslate": "I always study while listening to the radio."
+    },
+    {
+      "question": "わたしのすきなのみものは　_______ です。",
+      "options": [
+        "おかし ( お菓子 )",
+        "こうちゃ ( 紅茶 )",
+        "みかん ( 蜜柑 )",
+        "ねこ ( 猫 )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "こうちゃ ( 紅茶 )",
+      "optionsTranslate": [
+        "Sweets/Candy",
+        "Black tea",
+        "Tangerine/Mandarin orange",
+        "Cat"
+      ],
+      "questionTranslate": "My favorite drink is black tea."
+    },
+    {
+      "question": "わたしはじてんしゃを　_______ もっています。",
+      "options": [
+        "にだい ( 二台 )",
+        "にさつ ( 二冊 )",
+        "にほん ( 二本 )",
+        "にまい ( 二枚 )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "にだい ( 二台 )",
+      "optionsTranslate": [
+        "DAI is counter for machines or vehicle",
+        "SATSU is counter for books",
+        "HON/PON counter for long cylindrical things",
+        "MAI is counter for thin, flat objects"
+      ],
+      "questionTranslate": "I have (two) bicycles."
+    },
+    {
+      "question": "この　_______ じしょはだれのですか？",
+      "options": [
+        "ほそい ( 細い )",
+        "まるい ( 丸い )",
+        "みじかい ( 短い )",
+        "ちいさい ( 小さい )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ちいさい ( 小さい )",
+      "optionsTranslate": ["Thin", "Round", "Short", "Small"],
+      "questionTranslate": "Whose is this small dictionary?"
+    },
+    {
+      "question": "ちちはことし80さいですが、_______ です。",
+      "options": [
+        "げんき ( 元気 )",
+        "けっこう ( 結構 )",
+        "ざんねん ( 残念 )",
+        "かんたん ( 簡単 )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "げんき ( 元気 )",
+      "optionsTranslate": [
+        "Healthy",
+        "Fine",
+        "Regret/Disappointment/Sorry",
+        "Easy"
+      ],
+      "questionTranslate": "My father is 80 years old this year, but he is in good health."
+    },
+    {
+      "question": "あめがふっています。みんなかさを　_______ います。",
+      "options": [
+        "あけて ( 開けて )",
+        "あげて ( 上げて )",
+        "さして ( 差して )",
+        "つけて ( 付けて )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "さして ( 差して )",
+      "optionsTranslate": ["Open a door", "Raise", "Holding", "Attach"],
+      "questionTranslate": "Its raining. Everyone is holding an umbrella."
+    },
+    {
+      "question": "がくせいたちはきょうしつでやまだせんせいににほんごを　_______ います。",
+      "options": [
+        "ならって ( 習って )",
+        "つくって ( 使う )",
+        "おぼえて ( 覚えて )",
+        "べんきょうして ( 勉強して )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ならって ( 習って )",
+      "optionsTranslate": ["To learn", "To make", "Remember", "Study"],
+      "questionTranslate": "The students are learning Japanese from Yamada Sensei at school."
+    },
+    {
+      "question": "やまださんはあかいぼうしを　_______ います。",
+      "options": [
+        "きて ( 来て )",
+        "しめて ( 締めて )",
+        "はいって ( 入って )",
+        "かぶって ( 被って )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "かぶって ( 被って )",
+      "optionsTranslate": ["Come", "Tighten", "To enter", "To put on (head)"],
+      "questionTranslate": "Mr. Yamada is wearing a red hat."
+    },
+    {
+      "question": "やまださんはたいていおふろにはいって、_______ ねます。",
+      "options": [
+        "ちょうど ( 丁度 )",
+        "すぐに ( 直ぐに )",
+        "まだ",
+        "だんだん ( 段々 )"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "vocab",
+      "answer": "すぐに ( 直ぐに )",
+      "optionsTranslate": [
+        "Exactly/just right",
+        "Immediately/Right away",
+        "Not yet/Still",
+        "Gradually"
+      ],
+      "questionTranslate": "Mr. Yamada usually takes a bath and goes to sleep right away."
+    },
+    {
+      "question": "なのかのつぎは　_______ です。",
+      "options": [
+        "とおか ( 10日 )",
+        "ようか ( 8日 )",
+        "むいか ( 6日 )",
+        "よっか ( 4日 )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ようか ( 8日 )",
+      "optionsTranslate": ["ten days", "8 days", "6 days", "4 days"],
+      "questionTranslate": "Next up after 7 is 8th."
+    },
+    {
+      "question": "わたしはゆうべともだちに　_______ をかきました。",
+      "options": [
+        "ふうとう ( 封筒 )",
+        "きって ( 切って )",
+        "でんわ ( 電話 )",
+        "てがみ ( 手紙 )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "てがみ ( 手紙 )",
+      "optionsTranslate": ["Envelope", "Cut", "Phone", "Letter"],
+      "questionTranslate": "I wrote a letter to my friend last night."
+    },
+    {
+      "question": "わたしのすきなスポーツは　_______ です。",
+      "options": ["ピアノ", "レコード", "スキー", "テーブル"],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "スキー",
+      "optionsTranslate": ["Piano", "Record", "Ski", "Table"],
+      "questionTranslate": "My favorite sport is skiing."
+    },
+    {
+      "question": "わたしのうちにねこが　_______ います。",
+      "options": [
+        "ふたつ ( 2つ )",
+        "ふたり ( 二人 )",
+        "にだい ( ２台 )",
+        "にひき ( 2匹 )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "にひき ( 2匹 )",
+      "optionsTranslate": [
+        "Two (objects)",
+        "Two people",
+        "DAI is counter for machines or vehicle",
+        "HIKI is counter for for small animals"
+      ],
+      "questionTranslate": "I have two cats in my house."
+    },
+    {
+      "question": "このみちは　_______ です。",
+      "options": [
+        "わかい ( 若い )",
+        "うすい ( 薄い )",
+        "せまい ( 狭い )",
+        "おもい ( 重い )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "せまい ( 狭い )",
+      "optionsTranslate": ["Young", "Thin", "Narrow", "Heavy"],
+      "questionTranslate": "This road is narrow"
+    },
+    {
+      "question": "さかながかわを　_______ います。",
+      "options": [
+        "およいで ( 泳いで )",
+        "はしって ( 走って )",
+        "あるいて ( 歩いて )",
+        "とんで ( 飛んで )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "およいで ( 泳いで )",
+      "optionsTranslate": ["Swimming", "Run", "Walk", "Flying"],
+      "questionTranslate": "Fish are swimming in the river"
+    },
+    {
+      "question": "きのうのパーテイーでやまださんに　_______ あいました。",
+      "options": [
+        "はじめ ( 始めて )",
+        "はじめて ( 初めて )",
+        "はじめの ( 始めの )",
+        "はじめから ( 始めから )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "はじめて ( 初めて )",
+      "optionsTranslate": [
+        "Start/Beginning",
+        "For the first time",
+        "The beginning",
+        "From the beginning"
+      ],
+      "questionTranslate": "I met Mr. Yamada for the first time at a party yesterday."
+    },
+    {
+      "question": "たなかさんはきょうはあおいズボンを　_______ います。",
+      "options": [
+        "かぶって ( 被って )",
+        "はいて ( 履いて )",
+        "きて ( 着る )",
+        "かけて ( 掛けて )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "はいて ( 履いて )",
+      "optionsTranslate": [
+        "To wear on head",
+        "To wear on lower body",
+        "To wear upper body",
+        "To wear (eyeglass, necklace)"
+      ],
+      "questionTranslate": "Tanaka-san is wearing blue pants today."
+    },
+    {
+      "question": "えきででんしゃに　_______ ます。",
+      "options": [
+        "のり ( 乗り )",
+        "とり ( 取り )",
+        "すわり ( 座り )",
+        "のぼり ( 登り )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "のり ( 乗り )",
+      "optionsTranslate": ["Ride", "Take", "Sit", "Climb"],
+      "questionTranslate": "Im going to take a ride on the train."
+    },
+    {
+      "question": "まちださんはせが　_______ です。",
+      "options": [
+        "とおい ( 遠い )",
+        "ながい ( 長い )",
+        "おもい ( 重い )",
+        "たかい ( 高い )"
+      ],
+      "Set": "2",
+      "level": "5",
+      "type": "vocab",
+      "answer": "たかい ( 高い )",
+      "optionsTranslate": ["Far", "Long", "Heavy", "Tall/High/Expensive"],
+      "questionTranslate": "Mr. Machida is tall."
+    },
+    {
+      "question": "わたしはよるねるまえにはを _______ 。",
+      "options": [
+        "あらいます ( 洗う )",
+        "つかいます ( 使う )",
+        "あびます ( あびる )",
+        "みがきます ( 磨く )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "みがきます ( 磨く )",
+      "optionsTranslate": [
+        "To Wash, To Cleanse, To Rinse",
+        "To Use (A Tool, Method, Etc.), To Make Use Of, To Put To Use",
+        "To Take (E.G. Shower), To Bathe In",
+        "To Polish, To Shine, To Scrub, To Brush (Teeth)"
+      ],
+      "questionTranslate": "I brush my teeth before I go to bed."
+    },
+    {
+      "question": "つぎのかどをみぎに _______ 。",
+      "options": [
+        "まがります ( 曲がる )",
+        "わたります ( 渡る )",
+        "のぼります ( 登る )",
+        "とまります ( 止まる )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "まがります ( 曲がる )",
+      "optionsTranslate": [
+        "To Bend, To Curve, To Warp, To Wind, To Twist",
+        "To Cross Over, To Go Across",
+        "To Ascend, To Go Up, To Climb",
+        "To Stop (Moving), To Come To A Stop"
+      ],
+      "questionTranslate": "Turn right at the end of the street."
+    },
+    {
+      "question": "わたしの　いえは　えきの　ちかくです。とても _______ です。",
+      "options": [
+        "べんり ( 便利 )",
+        "ひま ( 暇 )",
+        "じょうず ( 上手 )",
+        "いろいろ ( 色々 )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "べんり ( 便利 )",
+      "optionsTranslate": [
+        "Convenient, Handy, Useful",
+        "Spare Time, Free Time, Leisure",
+        "Skillful, Skilled, Proficient, Good (At), Adept, Clever",
+        "Various, All Sorts Of, Variety Of"
+      ],
+      "questionTranslate": "My house is near the station. Its very convenient."
+    },
+    {
+      "question": "かぜを _______ 、かいしゃをやすみました。",
+      "options": ["やって", "なって", "ふいて ( 吹く )", "ひいて ( 引く )"],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ひいて ( 引く )",
+      "optionsTranslate": [
+        "To Do, To Undertake, To Perform, To Play (A Game), To Study",
+        "To Become, To Get, To Grow",
+        "To Blow (Of The Wind)",
+        "To Pull"
+      ],
+      "questionTranslate": "I caught a cold and took a day off from work."
+    },
+    {
+      "question": "まいつきほんを _______ よみます。",
+      "options": [
+        "さんさつ ( 三冊 )",
+        "さんだい ( 三代 )",
+        "さんぼん ( ３本 )",
+        "さんまい ( 三枚 )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "さんさつ ( 三冊 )",
+      "optionsTranslate": [
+        "Counter For Books",
+        "Counter For Vehicles And Big Equipment",
+        "Counter For Long And Round Objects",
+        "Counter For Flat And Thin Objects"
+      ],
+      "questionTranslate": "I read three books every month."
+    },
+    {
+      "question": "きのう _______ にほんのえいがをみました。",
+      "options": [
+        "どきどき ( 時々 )",
+        "もちろん",
+        "はじめに ( 初めに )",
+        "はじめて ( 初めて )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "はじめて ( 初めて )",
+      "optionsTranslate": [
+        "Sometimes, Occasionally,",
+        "Of Course, Certainly, Naturally",
+        "To Begin With, First Of All",
+        "For The First Time"
+      ],
+      "questionTranslate": "Yesterday I watched a Japanese movie for the first time."
+    },
+    {
+      "question": "きのうかぞくのしゃしんを _______ 。",
+      "options": [
+        "とりました ( 取る )",
+        "つくりました ( 作る )",
+        "かきました ( 書く )",
+        "しました"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "とりました ( 取る )",
+      "optionsTranslate": [
+        "To Take, To Pick Up, To Grab, To Catch",
+        "To Make, To Produce, To Prepare (Food)",
+        "To Write, To Compose",
+        " To Do, To Carry Out, To Perform"
+      ],
+      "questionTranslate": "I took a family photo yesterday."
+    },
+    {
+      "question": "_______ をしめてかいしゃへいきます。",
+      "options": ["セーター", "シャツ", "ズボン", "ネクタイ"],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "ネクタイ",
+      "optionsTranslate": ["Sweater", "Shirt", "Pants", "Necktie"],
+      "questionTranslate": "I put on my tie and go to work."
+    },
+    {
+      "question": "それはとても _______ もんだいです。",
+      "options": [
+        "たいせつな ( 大切 )",
+        "いろいろな ( 色々 )",
+        "じょうぶな ( 丈夫な )",
+        "にぎやかな ( 賑やか )"
+      ],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "たいせつな ( 大切 )",
+      "optionsTranslate": [
+        "Important, Significant",
+        "Various",
+        "Healthy, Robust",
+        "Bustling, Busy"
+      ],
+      "questionTranslate": "That is a very important issue."
+    },
+    {
+      "question": " なつはまいにち　_______ へおよぎにいきます。",
+      "options": ["えき ( 駅 )", "みせ ( 店 )", "プール", "テーブル"],
+      "Set": "3",
+      "level": "5",
+      "type": "vocab",
+      "answer": "プール",
+      "optionsTranslate": [
+        "Train Station",
+        "Store, Shop, Establishment",
+        "Pool",
+        "Table"
+      ],
+      "questionTranslate": "In the summer, I go to the pool to swim every day."
+    },
+
+    {
+      "question": "日本では、はる·なつ·あき·ふゆの四つの _______ があります。",
+      "options": [
+        "てんき ( 天気 )",
+        "きぶん ( 気分 )",
+        "きおん ( 気温 )",
+        "きせつ ( 季節 )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "きせつ ( 季節 )",
+      "optionsTranslate": ["Weather", "Feeling/Mood", "Temperature", "season"],
+      "questionTranslate": "In Japan, there are four seasons: spring, summer, snow, and winter."
+    },
+    {
+      "question": "きのうならったことをもう _______ しまいました。",
+      "options": [
+        "わすれて ( 忘れて )",
+        "すてて ( 捨てて )",
+        "なくして ( 亡くして )",
+        "とって ( 取って )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "わすれて ( 忘れて )",
+      "optionsTranslate": ["Forget", "Throw away", "Lost", "Take"],
+      "questionTranslate": "I have already forgotten what I learned yesterday."
+    },
+    {
+      "question": "シャツのうりばは、このうえの３がいです。あの _______ でいってください。",
+      "options": ["ドア", "タクシー", "サンダル", "エスカレーター"],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "エスカレーター",
+      "optionsTranslate": ["Door", "Taxi", "Sandal", "Escalator"],
+      "questionTranslate": "The shirt department is on the third floor above this. Please take that escalator."
+    },
+    {
+      "question": "あまり勉強しなかったので、テストのてんが _______ です。",
+      "options": [
+        "しんぱい ( 心配 )",
+        "きけん ( 危険 )",
+        "あんぜん ( 安全 )",
+        "あんしん ( 安心 )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "しんぱい ( 心配 )",
+      "optionsTranslate": ["Worry", "Danger", "Safe", "Relief/Rest assured"],
+      "questionTranslate": "I didnt study much, so Im worried about my test score."
+    },
+    {
+      "question": "おもしろいえいがだと聞いたので、_______ みたいです。",
+      "options": [
+        "たぶん ( 多分 )",
+        "そんなに",
+        "ぜひ ( 是非 )",
+        "きゅうに ( 急に )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "ぜひ ( 是非 )",
+      "optionsTranslate": [
+        "Probably/Maybe",
+        "That much",
+        "Cetainly/Without fail",
+        "Suddenly/Unexpected"
+      ],
+      "questionTranslate": "I heard its an interesting movie, so I definitely want to see it."
+    },
+    {
+      "question": "たかださんは _______ をしながらだいがくにかよっています。",
+      "options": ["オートバイ", "デパート", "アルバイト", "カレンダー"],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "アルバイト",
+      "optionsTranslate": [
+        "Motorcycle",
+        "Department store",
+        "Part-time job",
+        "Calendar"
+      ],
+      "questionTranslate": "Takada is attending university while working part-time."
+    },
+    {
+      "question": "はなこさんは白いスカートと _______ をはいています。",
+      "options": ["セーター", "ハンカチ", "サンダル", "オーバー"],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "サンダル",
+      "optionsTranslate": ["Sweater", "Handkerchief", "Sandal", "Over"],
+      "questionTranslate": "Hanako is wearing a white skirt and sandals."
+    },
+    {
+      "question": "父はとうきょうへ行くと、いつも _______ をかってきてくれます。",
+      "options": [
+        "おまつり ( お祭り )",
+        "おれい ( お礼 )",
+        "おみやげ ( お土産 )",
+        "おいわい ( お祝い )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "おみやげ ( お土産 )",
+      "optionsTranslate": [
+        "Festival",
+        "Thank-you",
+        "Presents/Souvenir",
+        "Celebration"
+      ],
+      "questionTranslate": "When my father goes to Tokyo, he always brings me souvenirs."
+    },
+    {
+      "question": "あのあたらしい _______ はデパートです。",
+      "options": ["アパート", "ホテル", "プール", "ビル"],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "ビル",
+      "optionsTranslate": ["Apartment", "Hotel", "Pool", "Building"],
+      "questionTranslate": "That new building is a department store."
+    },
+    {
+      "question": " じゅぎょうがおわってから、まいにち、ピンポンの _______ をします。",
+      "options": [
+        "しゅみ ( 趣味 )",
+        "うんどう ( 運動 )",
+        "れんしゅう ( 練習 )",
+        "しゅうかん ( 習慣 )"
+      ],
+      "Set": "1",
+      "level": "4",
+      "type": "vocab",
+      "answer": "れんしゅう ( 練習 )",
+      "optionsTranslate": ["Hobby", "Exercise", "Practice", "Habit"],
+      "questionTranslate": "After school is over, we practice ping pong every day."
+    },
+    {
+      "question": "まいにちしんぶん　_______ 読みます。",
+      "options": ["へ", "を", "に", "が"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "を",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "I read the newspaper every day"
+    },
+    {
+      "question": "田中さんは　_______ 来ていませんよ。",
+      "options": ["もう", "だけ", "まだ", "まで"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "まだ",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "Mr. Tanaka hasnt come yet."
+    },
+    {
+      "question": "ナイフ　_______ パンをきりました。",
+      "options": ["で", "を", "に", "が"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "で",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "I cut the bread with a knife."
+    },
+    {
+      "question": "家にかえってねたほう　_______ いいですよ。",
+      "options": ["と", "に", "が", "は"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "が",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "It is better to go home and sleep."
+    },
+    {
+      "question": "お母さん、もうあそびに　_______ もいいですか？",
+      "options": ["行く", "行って", "行った", "行っている"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "行って",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "Mom, can I go play now?"
+    },
+    {
+      "question": "すいようびには日本語のテスト　_______ 。",
+      "options": ["はいます", "はあります", "がいます", "があります"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "があります",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "There is a Japanese Test on Wednesday."
+    },
+    {
+      "question": "あなたのかみは　_______ よ。",
+      "options": [
+        "長ってすぎます",
+        "長くすぎます",
+        "長いすぎます",
+        "長すぎます"
+      ],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "長すぎます",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "Your hair is too long."
+    },
+    {
+      "question": "わたしはけいかんに　_______ です。",
+      "options": ["なりたい", "したい", "いきたい", "いたい"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "なりたい",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "I would like to be a police officer."
+    },
+    {
+      "question": "わたしは、これから　_______ に行きます。",
+      "options": ["およぐ", "およいで", "およぎ", "およいだ"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "およぎ",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "I am going swimming now."
+    },
+    {
+      "question": " あの人たちはどこに行っているん　_______ 。",
+      "options": ["だろう", "つもりだ", "から", "けれども"],
+      "Set": "1",
+      "level": "5",
+      "type": "grammar",
+      "answer": "だろう",
+      "optionsTranslate": ["", "", "", ""],
+      "questionTranslate": "I wonder where those people are going."
+    }
+  ],
+  "alphabet": [
+    {
+      "hiragana": "あ",
+      "katakana": "ア",
+      "romaji": "a",
+      "mode": "main",
+      "group": "a"
+    },
+    {
+      "hiragana": "い",
+      "katakana": "イ",
+      "romaji": "i",
+      "mode": "main",
+      "group": "a"
+    },
+    {
+      "hiragana": "う",
+      "katakana": "ウ",
+      "romaji": "u",
+      "mode": "main",
+      "group": "a"
+    },
+    {
+      "hiragana": "え",
+      "katakana": "エ",
+      "romaji": "e",
+      "mode": "main",
+      "group": "a"
+    },
+    {
+      "hiragana": "お",
+      "katakana": "オ",
+      "romaji": "o",
+      "mode": "main",
+      "group": "a"
+    },
+    {
+      "hiragana": "か",
+      "katakana": "カ",
+      "romaji": "ka",
+      "mode": "main",
+      "group": "ka"
+    },
+    {
+      "hiragana": "き",
+      "katakana": "キ",
+      "romaji": "ki",
+      "mode": "main",
+      "group": "ka"
+    },
+    {
+      "hiragana": "く",
+      "katakana": "ク",
+      "romaji": "ku",
+      "mode": "main",
+      "group": "ka"
+    },
+    {
+      "hiragana": "け",
+      "katakana": "ケ",
+      "romaji": "ke",
+      "mode": "main",
+      "group": "ka"
+    },
+    {
+      "hiragana": "こ",
+      "katakana": "コ",
+      "romaji": "ko",
+      "mode": "main",
+      "group": "ka"
+    },
+    {
+      "hiragana": "さ",
+      "katakana": "サ",
+      "romaji": "sa",
+      "mode": "main",
+      "group": "sa"
+    },
+    {
+      "hiragana": "し",
+      "katakana": "シ",
+      "romaji": "shi",
+      "mode": "main",
+      "group": "sa"
+    },
+    {
+      "hiragana": "す",
+      "katakana": "ス",
+      "romaji": "su",
+      "mode": "main",
+      "group": "sa"
+    },
+    {
+      "hiragana": "せ",
+      "katakana": "セ",
+      "romaji": "se",
+      "mode": "main",
+      "group": "sa"
+    },
+    {
+      "hiragana": "そ",
+      "katakana": "ソ",
+      "romaji": "so",
+      "mode": "main",
+      "group": "sa"
+    },
+    {
+      "hiragana": "た",
+      "katakana": "タ",
+      "romaji": "ta",
+      "mode": "main",
+      "group": "ta"
+    },
+    {
+      "hiragana": "ち",
+      "katakana": "チ",
+      "romaji": "chi",
+      "mode": "main",
+      "group": "ta"
+    },
+    {
+      "hiragana": "つ",
+      "katakana": "ツ",
+      "romaji": "tsu",
+      "mode": "main",
+      "group": "ta"
+    },
+    {
+      "hiragana": "て",
+      "katakana": "テ",
+      "romaji": "te",
+      "mode": "main",
+      "group": "ta"
+    },
+    {
+      "hiragana": "と",
+      "katakana": "ト",
+      "romaji": "to",
+      "mode": "main",
+      "group": "ta"
+    },
+    {
+      "hiragana": "な",
+      "katakana": "ナ",
+      "romaji": "na",
+      "mode": "main",
+      "group": "na"
+    },
+    {
+      "hiragana": "に",
+      "katakana": "ニ",
+      "romaji": "ni",
+      "mode": "main",
+      "group": "na"
+    },
+    {
+      "hiragana": "ぬ",
+      "katakana": "ヌ",
+      "romaji": "nu",
+      "mode": "main",
+      "group": "na"
+    },
+    {
+      "hiragana": "ね",
+      "katakana": "ネ",
+      "romaji": "ne",
+      "mode": "main",
+      "group": "na"
+    },
+    {
+      "hiragana": "の",
+      "katakana": "ノ",
+      "romaji": "no",
+      "mode": "main",
+      "group": "na"
+    },
+    {
+      "hiragana": "は",
+      "katakana": "ハ",
+      "romaji": "ha",
+      "mode": "main",
+      "group": "ha"
+    },
+    {
+      "hiragana": "ひ",
+      "katakana": "ヒ",
+      "romaji": "hi",
+      "mode": "main",
+      "group": "ha"
+    },
+    {
+      "hiragana": "ふ",
+      "katakana": "フ",
+      "romaji": "fu",
+      "mode": "main",
+      "group": "ha"
+    },
+    {
+      "hiragana": "へ",
+      "katakana": "ヘ",
+      "romaji": "he",
+      "mode": "main",
+      "group": "ha"
+    },
+    {
+      "hiragana": "ほ",
+      "katakana": "ホ",
+      "romaji": "ho",
+      "mode": "main",
+      "group": "ha"
+    },
+    {
+      "hiragana": "ま",
+      "katakana": "マ",
+      "romaji": "ma",
+      "mode": "main",
+      "group": "ma"
+    },
+    {
+      "hiragana": "み",
+      "katakana": "ミ",
+      "romaji": "mi",
+      "mode": "main",
+      "group": "ma"
+    },
+    {
+      "hiragana": "む",
+      "katakana": "ム",
+      "romaji": "mu",
+      "mode": "main",
+      "group": "ma"
+    },
+    {
+      "hiragana": "め",
+      "katakana": "メ",
+      "romaji": "me",
+      "mode": "main",
+      "group": "ma"
+    },
+    {
+      "hiragana": "も",
+      "katakana": "モ",
+      "romaji": "mo",
+      "mode": "main",
+      "group": "ma"
+    },
+    {
+      "hiragana": "や",
+      "katakana": "ヤ",
+      "romaji": "ya",
+      "mode": "main",
+      "group": "ya"
+    },
+    {
+      "hiragana": "ゆ",
+      "katakana": "ユ",
+      "romaji": "yu",
+      "mode": "main",
+      "group": "ya"
+    },
+    {
+      "hiragana": "よ",
+      "katakana": "ヨ",
+      "romaji": "yo",
+      "mode": "main",
+      "group": "ya"
+    },
+    {
+      "hiragana": "ら",
+      "katakana": "ラ",
+      "romaji": "ra",
+      "mode": "main",
+      "group": "ra"
+    },
+    {
+      "hiragana": "り",
+      "katakana": "リ",
+      "romaji": "ri",
+      "mode": "main",
+      "group": "ra"
+    },
+    {
+      "hiragana": "る",
+      "katakana": "ル",
+      "romaji": "ru",
+      "mode": "main",
+      "group": "ra"
+    },
+    {
+      "hiragana": "れ",
+      "katakana": "レ",
+      "romaji": "re",
+      "mode": "main",
+      "group": "ra"
+    },
+    {
+      "hiragana": "ろ",
+      "katakana": "ロ",
+      "romaji": "ro",
+      "mode": "main",
+      "group": "ra"
+    },
+    {
+      "hiragana": "わ",
+      "katakana": "ハ",
+      "romaji": "wa",
+      "mode": "main",
+      "group": "wa"
+    },
+    {
+      "hiragana": "を",
+      "katakana": "オ",
+      "romaji": "wo",
+      "mode": "main",
+      "group": "wa"
+    },
+    {
+      "hiragana": "ん",
+      "katakana": "ン",
+      "romaji": "n",
+      "mode": "main",
+      "group": "wa"
+    },
+
+    {
+      "hiragana": "にゃ",
+      "katakana": "ニャ",
+      "romaji": "nya",
+      "mode": "combination",
+      "group": "nya"
+    },
+    {
+      "hiragana": "にゅ",
+      "katakana": "ニュ",
+      "romaji": "nyu",
+      "mode": "combination",
+      "group": "nya"
+    },
+    {
+      "hiragana": "にょ",
+      "katakana": "ニョ",
+      "romaji": "nyo",
+      "mode": "combination",
+      "group": "nya"
+    },
+    {
+      "hiragana": "ちゃ",
+      "katakana": "チャ",
+      "romaji": "cha",
+      "mode": "combination",
+      "group": "cha"
+    },
+    {
+      "hiragana": "ちゅ",
+      "katakana": "チュ",
+      "romaji": "chu",
+      "mode": "combination",
+      "group": "cha"
+    },
+    {
+      "hiragana": "ちょ",
+      "katakana": "チョ",
+      "romaji": "cho",
+      "mode": "combination",
+      "group": "cha"
+    },
+    {
+      "hiragana": "しゃ",
+      "katakana": "シャ",
+      "romaji": "sha",
+      "mode": "combination",
+      "group": "sha"
+    },
+    {
+      "hiragana": "しゅ",
+      "katakana": "シュ",
+      "romaji": "shu",
+      "mode": "combination",
+      "group": "sha"
+    },
+    {
+      "hiragana": "しょ",
+      "katakana": "ショ",
+      "romaji": "sho",
+      "mode": "combination",
+      "group": "sha"
+    },
+    {
+      "hiragana": "きゃ",
+      "katakana": "キャ",
+      "romaji": "kya",
+      "mode": "combination",
+      "group": "kya"
+    },
+    {
+      "hiragana": "きゅ",
+      "katakana": "キュ",
+      "romaji": "kyu",
+      "mode": "combination",
+      "group": "kya"
+    },
+    {
+      "hiragana": "きょ",
+      "katakana": "キョ",
+      "romaji": "kyo",
+      "mode": "combination",
+      "group": "kya"
+    },
+    {
+      "hiragana": "ぎゃ",
+      "katakana": "ギャ",
+      "romaji": "gya",
+      "mode": "combination",
+      "group": "gya"
+    },
+    {
+      "hiragana": "ぎゅ",
+      "katakana": "ギュ",
+      "romaji": "gyu",
+      "mode": "combination",
+      "group": "gya"
+    },
+    {
+      "hiragana": "ぎょ",
+      "katakana": "ギョ",
+      "romaji": "gyo",
+      "mode": "combination",
+      "group": "gya"
+    },
+    {
+      "hiragana": "りゃ",
+      "katakana": "リャ",
+      "romaji": "rya",
+      "mode": "combination",
+      "group": "rya"
+    },
+    {
+      "hiragana": "りゅ",
+      "katakana": "リュ",
+      "romaji": "ryu",
+      "mode": "combination",
+      "group": "rya"
+    },
+    {
+      "hiragana": "りょ",
+      "katakana": "リョ",
+      "romaji": "ryo",
+      "mode": "combination",
+      "group": "rya"
+    },
+    {
+      "hiragana": "みゃ",
+      "katakana": "ミャ",
+      "romaji": "mya",
+      "mode": "combination",
+      "group": "mya"
+    },
+    {
+      "hiragana": "みゅ",
+      "katakana": "ミュ",
+      "romaji": "myu",
+      "mode": "combination",
+      "group": "mya"
+    },
+    {
+      "hiragana": "みょ",
+      "katakana": "ミョ",
+      "romaji": "myo",
+      "mode": "combination",
+      "group": "mya"
+    },
+    {
+      "hiragana": "ひゃ",
+      "katakana": "ヒャ",
+      "romaji": "hya",
+      "mode": "combination",
+      "group": "hya"
+    },
+    {
+      "hiragana": "ひゅ",
+      "katakana": "ヒュ",
+      "romaji": "hyu",
+      "mode": "combination",
+      "group": "hya"
+    },
+    {
+      "hiragana": "ひょ",
+      "katakana": "ヒョ",
+      "romaji": "hyo",
+      "mode": "combination",
+      "group": "hya"
+    },
+    {
+      "hiragana": "ぴゃ",
+      "katakana": "ピャ",
+      "romaji": "pya",
+      "mode": "combination",
+      "group": "pya"
+    },
+    {
+      "hiragana": "ぴゅ",
+      "katakana": "ピュ",
+      "romaji": "pyu",
+      "mode": "combination",
+      "group": "pya"
+    },
+    {
+      "hiragana": "ぴょ",
+      "katakana": "ピョ",
+      "romaji": "pyo",
+      "mode": "combination",
+      "group": "pya"
+    },
+    {
+      "hiragana": "びゃ",
+      "katakana": "ビャ",
+      "romaji": "bya",
+      "mode": "combination",
+      "group": "bya"
+    },
+    {
+      "hiragana": "びゅ",
+      "katakana": "ビュ",
+      "romaji": "byu",
+      "mode": "combination",
+      "group": "bya"
+    },
+    {
+      "hiragana": "びょ",
+      "katakana": "ビョ",
+      "romaji": "byo",
+      "mode": "combination",
+      "group": "bya"
+    },
+    {
+      "hiragana": "じゃ",
+      "katakana": "ジャ",
+      "romaji": "ja",
+      "mode": "combination",
+      "group": "ja"
+    },
+    {
+      "hiragana": "じゅ",
+      "katakana": "ジュ",
+      "romaji": "ju",
+      "mode": "combination",
+      "group": "ja"
+    },
+    {
+      "hiragana": "じょ",
+      "katakana": "ジョ",
+      "romaji": "jo",
+      "mode": "combination",
+      "group": "ja"
+    },
+    {
+      "hiragana": "ぢゃ",
+      "katakana": "ヂャ",
+      "romaji": "dya",
+      "mode": "combination",
+      "group": "dya"
+    },
+    {
+      "hiragana": "ぢゅ",
+      "katakana": "ヂュ",
+      "romaji": "dyu",
+      "mode": "combination",
+      "group": "dya"
+    },
+    {
+      "hiragana": "ぢょ",
+      "katakana": "ぢょ",
+      "romaji": "dyo",
+      "mode": "combination",
+      "group": "dya"
+    },
+
+    {
+      "hiragana": "ば",
+      "katakana": "バ",
+      "romaji": "ba",
+      "mode": "dakuten",
+      "group": "ba"
+    },
+    {
+      "hiragana": "び",
+      "katakana": "ビ",
+      "romaji": "bi",
+      "mode": "dakuten",
+      "group": "ba"
+    },
+    {
+      "hiragana": "ぶ",
+      "katakana": "ブ",
+      "romaji": "bu",
+      "mode": "dakuten",
+      "group": "ba"
+    },
+    {
+      "hiragana": "べ",
+      "katakana": "ベ",
+      "romaji": "be",
+      "mode": "dakuten",
+      "group": "ba"
+    },
+    {
+      "hiragana": "ぼ",
+      "katakana": "ボ",
+      "romaji": "bo",
+      "mode": "dakuten",
+      "group": "ba"
+    },
+    {
+      "hiragana": "だ",
+      "katakana": "ダ",
+      "romaji": "da",
+      "mode": "dakuten",
+      "group": "da"
+    },
+    {
+      "hiragana": "ぢ",
+      "katakana": "ヂ",
+      "romaji": "di",
+      "mode": "dakuten",
+      "group": "da"
+    },
+    {
+      "hiragana": "づ",
+      "katakana": "ヅ",
+      "romaji": "du",
+      "mode": "dakuten",
+      "group": "da"
+    },
+    {
+      "hiragana": "で",
+      "katakana": "デ",
+      "romaji": "de",
+      "mode": "dakuten",
+      "group": "da"
+    },
+    {
+      "hiragana": "ど",
+      "katakana": "ド",
+      "romaji": "do",
+      "mode": "dakuten",
+      "group": "da"
+    },
+    {
+      "hiragana": "ざ",
+      "katakana": "ザ",
+      "romaji": "za",
+      "mode": "dakuten",
+      "group": "za"
+    },
+    {
+      "hiragana": "じ",
+      "katakana": "ジ",
+      "romaji": "ji",
+      "mode": "dakuten",
+      "group": "za"
+    },
+    {
+      "hiragana": "ず",
+      "katakana": "ズ",
+      "romaji": "zu",
+      "mode": "dakuten",
+      "group": "za"
+    },
+    {
+      "hiragana": "ぜ",
+      "katakana": "ゼ",
+      "romaji": "ze",
+      "mode": "dakuten",
+      "group": "za"
+    },
+    {
+      "hiragana": "ぞ",
+      "katakana": "ゾ",
+      "romaji": "zo",
+      "mode": "dakuten",
+      "group": "za"
+    },
+    {
+      "hiragana": "が",
+      "katakana": "ガ",
+      "romaji": "ga",
+      "mode": "dakuten",
+      "group": "ga"
+    },
+    {
+      "hiragana": "ぎ",
+      "katakana": "ギ",
+      "romaji": "gi",
+      "mode": "dakuten",
+      "group": "ga"
+    },
+    {
+      "hiragana": "ぐ",
+      "katakana": "グ",
+      "romaji": "gu",
+      "mode": "dakuten",
+      "group": "ga"
+    },
+    {
+      "hiragana": "げ",
+      "katakana": "ゲ",
+      "romaji": "ge",
+      "mode": "dakuten",
+      "group": "ga"
+    },
+    {
+      "hiragana": "ご",
+      "katakana": "ゴ",
+      "romaji": "go",
+      "mode": "dakuten",
+      "group": "ga"
+    },
+    {
+      "hiragana": "ぱ",
+      "katakana": "パ",
+      "romaji": "pa",
+      "mode": "dakuten",
+      "group": "pa"
+    },
+    {
+      "hiragana": "ぴ",
+      "katakana": "ピ",
+      "romaji": "pi",
+      "mode": "dakuten",
+      "group": "pa"
+    },
+    {
+      "hiragana": "ぷ",
+      "katakana": "プ",
+      "romaji": "pu",
+      "mode": "dakuten",
+      "group": "pa"
+    },
+    {
+      "hiragana": "ぺ",
+      "katakana": "ペ",
+      "romaji": "pe",
+      "mode": "dakuten",
+      "group": "pa"
+    },
+    {
+      "hiragana": "ぽ",
+      "katakana": "ポ",
+      "romaji": "po",
+      "mode": "dakuten",
+      "group": "pa"
+    }
+  ]
+}
