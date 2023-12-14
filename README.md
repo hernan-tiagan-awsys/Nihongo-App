@@ -1,6 +1,6 @@
 <h1 align="center" id="title">日本語の App Project</h1>
 
-<p align="center"><img src="https://socialify.git.ci/hernan-tiagan-awsys/Nihongo-App/image?description=1&amp;descriptionEditable=This%20mini%20project%20will%20be%20useful%20for%20nihongo%20review%20and%20will%20also%20serve%20as%20%20acoding%20challenge.%20&amp;font=Bitter&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;pulls=1&amp;theme=Auto" alt="project-image"></p>
+![Nihongo-App](https://socialify.git.ci/hernan-tiagan-awsys/Nihongo-App/image?font=Bitter&language=1&name=1&theme=Light)
 
 <p id="description">A project designed to help developers study programming and version control with git and for other members to use the developed app to study 日本語</p>
 
